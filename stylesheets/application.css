@@ -332,3 +332,12 @@ p.trailing {
 .speakerList p {
   padding: 10px;
 }
+
+.goals {
+  padding: 0 0 30px 30px;
+}
+
+.goals li {
+  margin-bottom: 10px;
+  font-style: italic;
+}
