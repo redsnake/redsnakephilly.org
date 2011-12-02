@@ -27,9 +27,9 @@ html, body {
   width: 336px;
 }
 #sidebar #logo {
-  background: url(/images/chrome/redsnakephilly.png) 0 0 no-repeat;
+  background: url(/images/chrome/redsnakephilly.png) 68px 0 no-repeat;
   width: 309px;
-  height: 147px;
+  height: 150px;
   display: block; }
 #sidebar #nav {
 559508  margin: 0 0 20px 0;
