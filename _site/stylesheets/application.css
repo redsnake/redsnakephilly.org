@@ -27,10 +27,14 @@ html, body {
   width: 336px;
 }
 #sidebar #logo {
-  background: url(/images/chrome/redsnakephilly.png) 68px 0 no-repeat;
+  /*background: url(/images/chrome/redsnake-logo-sm-1.png) 15px 10px no-repeat;*/
+  /*background: url(/images/chrome/redsnake-logo-sm-2.png) 15px 10px no-repeat;*/
+  background: url(/images/chrome/redsnake-logo-sm-3.png) 15px 10px no-repeat;
+  /*background: url(/images/chrome/redsnakephilly.png) 15px 0 no-repeat;*/
   width: 309px;
-  height: 150px;
-  display: block; }
+  height: 160px;
+  display: block;
+  padding: 10px; }
 #sidebar #nav {
 559508  margin: 0 0 20px 0;
   height: 252px;

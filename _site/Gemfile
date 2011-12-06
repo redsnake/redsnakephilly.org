@@ -3,7 +3,6 @@ source :rubygems
 gem 'rack-contrib'
 
 group :development do
-  gem 'avatar',  :require => false
-  gem 'shotgun', :require => false
-  gem 'jekyll',  :require => false
+  gem 'shotgun'
+  gem 'jekyll'
 end
