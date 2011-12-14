@@ -1,5 +1,10 @@
 auto: true
 paginate: 2
-
 css:
- - /stylesheets/application.css
+  - /stylesheets/application.css
+exclude:
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - config.ru
