@@ -346,3 +346,11 @@ p.trailing {
   margin-bottom: 10px;
   font-style: italic;
 }
+
+.home-map {
+  float: right;
+}
+
+.post hr {
+  clear: both;
+}
