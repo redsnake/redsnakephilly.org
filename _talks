@@ -1,6 +1,15 @@
 Ruby:
 
 Casey <nocashvaluedrumz@gmail.com> - Ruby beginner's perspective
+
 Nicholas Canzoneri <ac3522@gmail.com> - Vagrant
+
 Rob DiMarco <robdimarco@gmail.com> - ActiveSupport, extending the language
+
 Greg Sterndale <gsterndale@gmail.com> - Testing in Ruby v Testing in Python
+
+Python:
+
+Mike DeLaurentis - Linear Regression, Python, and Beer
+Linear regression is a simple, powerful, and widely-used technique for estimating the parameters of a function. It is often used to predict the value of an unknown variable based on one or more input variables and some historical data. There are a few different methods for solving linear regressions using least squares, and some very easy ways to do it in Python. We will talk about some of the history and theory behind linear regression, show how to implement it in Python, and discuss how it can be applied to real-world problems like predicting the percent alcohol of homebrewed beer.
+Mike DeLaurentis studies Computer Science at Drexel and makes beer at home.
