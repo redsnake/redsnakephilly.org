@@ -6,8 +6,9 @@ Nicholas Canzoneri <ac3522@gmail.com> - Vagrant
 
 Rob DiMarco <robdimarco@gmail.com> - ActiveSupport, extending the language. Focus on the language features that make that possible
 
-Greg Sterndale <gsterndale@gmail.com> - Testing in Ruby v Testing in Python
-* is 10 minutes enough?
+# Talked deemed too big for 10 minutes.
+# Greg Sterndale <gsterndale@gmail.com> - Testing in Ruby v Testing in Python
+
 
 Jason Garber <jg@jasongarber.com> - Parsing other languages in Ruby with Ragel and Parselet.
 
