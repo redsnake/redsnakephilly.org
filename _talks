@@ -4,7 +4,17 @@ Casey <nocashvaluedrumz@gmail.com> - Ruby beginner's perspective
 
 Nicholas Canzoneri <ac3522@gmail.com> - Vagrant
 
-Rob DiMarco <robdimarco@gmail.com> - ActiveSupport, extending the language. Focus on the language features that make that possible
+Rob DiMarco
+robdimarco@gmail.com
+@iotr
+
+Title: Happier Coding with ActiveSupport
+
+Abstract: Active Support is a collection of utility classes, standard library extensions, and patterns.  Extracted out of the Rails project, many Ruby devs take for granted what Active Support brings to the table.  In this talk, we will see how the ActiveSupport library produces nicer Ruby code and look to see how it works its magic. https://github.com/rails/rails/tree/master/activesupport
+
+Bio: <a href="http://www.innovationontherun.com/">Rob Di Marco</a> has been delivering web applications since 1998.  Now primarily working in Ruby, he has worked with companies large and small to ship revenue generating applications.  In addition, Rob serves as the the Board President for the <a href="http://www.thearcalliance.org/">Arc Alliance</a>, which helps people with disabilities achieve their potential as functioning and contributing members to society.
+
+
 
 # Talked deemed too big for 10 minutes.
 # Greg Sterndale <gsterndale@gmail.com> - Testing in Ruby v Testing in Python
@@ -12,9 +22,9 @@ Rob DiMarco <robdimarco@gmail.com> - ActiveSupport, extending the language. Focu
 
 Jason Garber <jg@jasongarber.com> - Parsing other languages in Ruby with Ragel and Parselet.
 
-Dustin Getz <dustin.getz@gmail.com> - Continuations & Callbacks https://docs.google.com/present/view?id=dv9r8sv_82cn7dngcq
- A continuation is an object that represents the control state of a process at a particular moment (instruction pointer and call stack). We can save this state and later restore it, to manipulate the flow of execution in unusual ways. We will start with a trivial example and build up to an approach for simplifying asynchronous "callback hell".
-Bio: twenty-something engineer, paying the bills with enterprise java.
+Dustin Getz <dustin.getz@gmail.com> - @dustingetz - "A practical introduction to continuations." A continuation is an object that represents the control state of a process at a particular moment (instruction pointer and call stack). We can save this state and later restore it, to manipulate the flow of execution in unusual ways. We will start with a trivial example and build up to a technique for using a blocking API, concurrently, without threads.
+  Bio : Dustin works in enterprise cloud computing, and wrestles Java into submission on a daily basis. He is fascinated by decomposing ugly, complex abstractions into simple, elegant primitives, and thinks functional-oriented thinking helps make programming more like Legos. If you've written software people use in a functional language, I'd love to pick your mind over a beer.
+
 
 Python:
 
