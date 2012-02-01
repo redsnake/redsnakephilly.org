@@ -2,6 +2,7 @@ auto: true
 paginate: 2
 map_api_key: ABQIAAAAuFbbOOo6hVhZnog0-d_70RRT3pFwgWUZchY2jxi4nBG2nGmuyRTI2ZPfiVzYpIFxJ1LGDoTbOSSyNA
 map_query: 50+South+16th+St+19102
+url: http://redsnakephilly.org
 css:
   - /stylesheets/application.css
 exclude:
