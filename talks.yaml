@@ -103,7 +103,7 @@ the statistical properties of human language. His Erdős number is 4."
   :twitter: "@jasongarber"
   :title: "What goes on under the Red Cloth?"
   :abstract: "Every few years, Jason undertakes a rewrite of RedCloth—from regular expressions to state machines to packrats and PEGs—he\'s tried them all in his quest to efficiently parse and transform Textile, one of the most complex formatting languages in existence. Take a ride on his perpetual dissatisfaction machine and judge for yourself whether he\'s finally found \"the one\" or is just setting himself up for another heartbreak."
-  :bio: "Jason has been doing web development for 15 years and Ruby development since 2005. He is a recent immigrant to Philly, but felt immediately at home in Center City, where he does freelance web development. Why the lucky stiff gave him RedCloth in 2008 along with a small endowment of bacon for its upkeep. The bacon ran out the day _why disappeared.""
+  :bio: "Jason has been doing web development for 15 years and Ruby development since 2005. He is a recent immigrant to Philly, but felt immediately at home in Center City, where he does freelance web development. Why the lucky stiff gave him RedCloth in 2008 along with a small endowment of bacon for its upkeep. The bacon ran out the day _why disappeared."
 - :speaker: Dustin Getz
   :lang: Ruby
   :email: "dustin.getz@gmail.com"
