@@ -1,5 +1,3 @@
-
-# Casey <nocashvaluedrumz@gmail.com> - Ruby beginner's perspective
 ---
 - :title: Linear Regression, Python, and Beer
   :speaker: Mike DeLaurentis
@@ -113,3 +111,10 @@ the statistical properties of human language. His Erdős number is 4."
   :title: "A practical introduction to continuations."
   :abstract: "A continuation is an object that represents the control state of a process at a particular moment (instruction pointer and call stack). We can save this state and later restore it, to manipulate the flow of execution in unusual ways. We will start with a trivial example and build up to a technique for using a blocking API, concurrently, without threads."
   :bio: "Dustin works in enterprise cloud computing, and wrestles Java into submission on a daily basis. He is fascinated by decomposing ugly, complex abstractions into simple, elegant primitives, and thinks functional-oriented thinking helps make programming more like Legos. If you\'ve written software people use in a functional language, I\'d love to pick your mind over a beer."
+- :speaker: Tim Walsh
+  :lang: Ruby
+  :email: "walsh.cis.udel@gmail.com"
+  :twitter: "@Timimsms"
+  :title: "Startups & Ruby on Rails: A Learning Experience"
+  :abstract: "Working within the startup field requires the ability to rapidly prototype, gain feedback, and quickly make changes that can completely alter one's development timeline. This is especially true when working with technology-based startups, that require minimal viable products to prove their concept before making a large development investment. This talk examines the pros and cons of using Ruby (and the Rails framework), from the perspective of a newcomer to the language, with a focus on startup applications."
+  :bio: "Tim is a recent graduate from the University of Delaware, majoring in computer science and minoring in psychology and cognitive science. Research was a major focal point of Tim's undergraduate career, which eventually led to his entrepreneurial interests in startups in the Philadelphia / Delaware area. He is currently a doctoral candidate studying computer science (UD), and is heavily involved in the entrepreneurial community. His current endeavors involve web-application development for Chimp Flix (chimpflix.com) and USEED (useed.co)."
