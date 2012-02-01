@@ -8,7 +8,7 @@ Hello again, everyone! Excitement is building for the coming RedSnake Philly mee
 Or consider volunteering! We're looking for about 6 volunteers to help out. 3 will be handling Registration where job duties include:
 
 * Letting in the pre-registered attendees first
-* Giving out the T-Shirts and other schwag
+* Giving out the T-Shirts and other swag
 * Staving off the chaos as we try to pack 200 people into a space built for 60 :)
 
 And 3 will be helping out with the food, including:
