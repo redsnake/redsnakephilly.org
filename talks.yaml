@@ -1,0 +1,115 @@
+
+# Casey <nocashvaluedrumz@gmail.com> - Ruby beginner's perspective
+---
+- :title: Linear Regression, Python, and Beer
+  :speaker: Mike DeLaurentis
+  :lang: Python
+  :twitter: "@mdelaurentis"
+  :abstract: "Linear Regression is a simple, powerful, and widely-used
+  technique for estimating the parameters of a function. It is often
+  used to predict the value of an unknown variable based on one or more
+  input variables and some historical data. There are a few different
+  methods for solving linear regressions using least squares, and some
+  very easy ways to do it in Python. We will talk about some of the
+  history and theory behind linear regression, show how to implement it
+  in Python, and discuss how it can be applied to real-world problems
+  like predicting the percent alcohol of home-brewed beer."
+  :bio: Mike DeLaurentis studies Computer Science at Drexel and makes beer at home.
+- :title: Pandas
+  :lang: Python
+  :speaker: John Granieri
+  :abstract: "Python and its broad standard library have frequently been
+  used as the glue language in data transformation and analysis
+  pipelines. There is an evolving set of modules and Python data types
+  that help Python become a complete environment for many data analysis
+  tasks, and Pandas looks like a promising key component to this
+  growing area. From <a href=\"http://pandas.sourceforge.net\">http://pandas.sourceforge.net</a>: \"pandas is a Python
+  package providing fast, flexible, and expressive data structures
+  designed to make working with relational or labeled data both easy and
+  intuitive. It aims to be the fundamental high-level building block for
+  doing practical, real-world data analysis in Python.\" Pandas is under
+  development by Wes McKinney and several others. John will introduce
+  the group to pandas and demo it as fast as he can."
+  :bio: "John Granieri works at SIG, a global financial trading firm
+  headquartered in Bala Cynwyd, on systems for trading strategy
+  research, development, and optimization. He did graduate work on
+  real-time 3D animation systems. He has used and been a proponent of
+  Python for over 15 years."
+- :title: Python for Open Data Lovers: Explore it, Analyze it, Map it
+  :lang: Python
+  :speaker: Dana Bauer
+  :twitter: "@geography76"
+  :abstract: "Much of the data released by government agencies has a
+            spatial component to it. Dana will present basic techniques of spatial
+            data analysis, along with python libraries and python-based tools for
+            exploring and mapping open data."
+  :bio: "Dana Bauer works as a spatial analyst and mapmaker at Azavea, a
+        geospatial analysis firm specializing in location-based web and mobile
+        application development. Dana has a background in geography,
+        statistics, and science writing.  As part of the PhillyPUG leadership
+        team, she organizes Python workshops and project nights for new
+        coders."
+- :title: "Studying 16 years of Ira Glass\' weird accent with Python"
+  :speaker: Kyle Gorman
+  :lang: Python
+  :twitter: "@killa__bee"
+  :abstract: "Ira Glass, host of NPR\'s popular talk show \"This American
+              Life\", has a difficult-to-place accent. Python is the glue holding
+              together homebrewed C libraries, shell programs, and R and Praat code,
+              that allows Kyle to automatically measure the acoustic properties of
+              Glass\' radio voice and to compare his speech to that of other speakers
+              from across North America."
+  :bio: "Kyle Gorman is a Ph.D. candidate at the Department of Linguistics
+at the University of Pennsylvania, where he uses Python and C to study
+the statistical properties of human language. His Erdős number is 4."
+- :title: What I Talk About When I Talk About Python
+  :lang: Python
+  :speaker: Hunter Blanks
+  :twitter: "@tildehblanks"
+  :abstract: "This talk asks two questions: \"What is it like to use Python
+      after using other tools and languages?\" and \"What is it like to use
+      other tools and languages after using Python?\" For a brief (and
+      inevitably incomplete) answer, this talk turns to three topics as they
+      apply in software: the process of learning, the ability to make
+      friends through a text, and how one may wisely or unwisely go about
+      solving technical problems."
+  :bio: "Hunter Blanks works in Python and JavaScript as an engineer
+      and technical lead. Before joining Monetate in 2009, he worked as the
+      lead programmer at a Ruby on Rails startup in Philadelphia, and as a
+      programmer/sysadmin at a wireless engineering firm in Berkeley,
+      California. Hunter holds a B.A. in Classical Languages (Greek and Latin
+      -- not Fortran and C :-) from UC Berkeley and enjoys reading, flying
+      small aircraft, and helping people build solutions to technical
+      problems."
+- :speaker: Nicholas Canzoneri
+  :lang: Ruby
+  :email: "ac3522@gmail.com"
+  :twitter: "@ac3522"
+  :title: "Vagrant: Virtualize your dev environment"
+  :abstract: See how I use Vagrant to keep my application environment easily encapsulated, maintained and configured.
+  :bio: "Nick is a software engineer for IBM by day and a hacker with hobbies
+    in data visualization and GIS by night. A Drexel alum and member of
+    several Philly tech groups, Nick is a strong believer in the Philly
+    tech scene and thinks events like Red Snake are a great start to bring
+    national recognition to our city."
+- :speaker: Rob DiMarco
+  :lang: Ruby
+  :email: "robdimarco@gmail.com"
+  :twitter: "@iotr"
+  :title: "Happier Coding with ActiveSupport"
+  :abstract: "Active Support is a collection of utility classes, standard library extensions, and patterns.  Extracted out of the Rails project, many Ruby devs take for granted what Active Support brings to the table.  In this talk, we will see how the ActiveSupport library produces nicer Ruby code and look to see how it works its magic. https://github.com/rails/rails/tree/master/activesupport"
+  :bio: "<a href=\"http://www.innovationontherun.com/\">Rob Di Marco</a> has been delivering web applications since 1998.  Now primarily working in Ruby, he has worked with companies large and small to ship revenue generating applications.  In addition, Rob serves as the the Board President for the <a href=\"http://www.thearcalliance.org/\">Arc Alliance</a>, which helps people with disabilities achieve their potential as functioning and contributing members to society."
+- :speaker: Jason Garber
+  :lang: Ruby
+  :email: "jg@jasongarber.com"
+  :twitter: "@jasongarber"
+  :title: "What goes on under the Red Cloth?"
+  :abstract: "Every few years, Jason undertakes a rewrite of RedCloth—from regular expressions to state machines to packrats and PEGs—he\'s tried them all in his quest to efficiently parse and transform Textile, one of the most complex formatting languages in existence. Take a ride on his perpetual dissatisfaction machine and judge for yourself whether he\'s finally found \"the one\" or is just setting himself up for another heartbreak."
+  :bio: "Jason has been doing web development for 15 years and Ruby development since 2005. He is a recent immigrant to Philly, but felt immediately at home in Center City, where he does freelance web development. Why the lucky stiff gave him RedCloth in 2008 along with a small endowment of bacon for its upkeep. The bacon ran out the day _why disappeared.""
+- :speaker: Dustin Getz
+  :lang: Ruby
+  :email: "dustin.getz@gmail.com"
+  :twitter: "@dustingetz"
+  :title: "A practical introduction to continuations."
+  :abstract: "A continuation is an object that represents the control state of a process at a particular moment (instruction pointer and call stack). We can save this state and later restore it, to manipulate the flow of execution in unusual ways. We will start with a trivial example and build up to a technique for using a blocking API, concurrently, without threads."
+  :bio: "Dustin works in enterprise cloud computing, and wrestles Java into submission on a daily basis. He is fascinated by decomposing ugly, complex abstractions into simple, elegant primitives, and thinks functional-oriented thinking helps make programming more like Legos. If you\'ve written software people use in a functional language, I\'d love to pick your mind over a beer."
