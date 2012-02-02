@@ -174,7 +174,16 @@ h4 {
   font-size: 16px;
   line-height: 21px;
   margin-bottom: 21px; }
- style="width:400px;float:left; padding:15px;"
+
+.title {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 21px;
+  margin-bottom: 21px;
+  vertical-align: middle;
+}
+
+ /*style="width:400px;float:left; padding:15px;"*/
 p {
   color: #232323;
   font: helvetica, arial, sans-serif;
@@ -283,6 +292,30 @@ img.organizer {
   float: right;
   height: 35px;
   margin: 0 2px;
+}
+
+img.speaker {
+  margin: 0 10px;
+  margin-left: 0;
+  height: 250px;
+  float: left;
+}
+
+.speakerLinks {
+  list-style: none;
+}
+
+.speakerLinks img {
+  float: right;
+  height: 35px;
+  margin: 0 2px;
+}
+
+#content img.languageLogo {
+  width: 25px;
+  margin-left: 2px;
+  margin-bottom: 0;
+  vertical-align: middle;
 }
 
 #box{
