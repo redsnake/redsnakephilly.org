@@ -19,4 +19,4 @@ And 3 will be helping out with the food, including:
 
 [Andrew Burnheimer](https://twitter.com/aburnheimer) has kindly volunteered to help coordinate the video stream, but if you're interested in things of the A/V nature, feel free to get in touch with him and help out there.
 
-If you're interested in helping out with any of this please [email us](info@redsnakephilly.org) or hit us up on [twitter](https://twitter.com/redsnakephilly)!
+If you're interested in helping out with any of this please [email us](mailto:info@redsnakephilly.org) or hit us up on [twitter](https://twitter.com/redsnakephilly)!
