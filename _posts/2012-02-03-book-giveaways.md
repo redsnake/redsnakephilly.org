@@ -3,8 +3,6 @@ author: Mat Schaffer
 layout: post
 ---
 
-Hello again, everyone! Excitement is building for the coming RedSnake Philly meeting. If you didn't get a ticket, don't lose hope yet. We're hoping to squeeze a few more in so make sure to follow [@RedSnakePhilly](https://twitter.com/redsnakephilly) to get the word.
-
 I'm happy to announce that in addition to the sweet shirts, beer and pizza being provided by our gracious [sponsors](/sponsors/) we'll also be featuring a variety of book giveaways!
 
 Both [Manning Publications](http://www.manning.com/) and [O'Reilly](http://oreilly.com/) have chipped in a number of print books we'll be giving away at the event. O'Reilly will also be sending us a batch of free eBook codes for the attendees. And Manning has offered at 50% off deal on all print books.
