@@ -1,7 +1,7 @@
 ---
 author: Angel Pizarro
 layout: post
-title: RedSnake Fun and Prizes
+title: RedSnake Fun with Prizes
 ---
 
 Happy Valentine's Day everyone! The RedSnake cherubs are a flapping around, whispering sweet backtrace information into our terminals. We want to share these joyous feelings with all of you wonderful attendees. And what better way to do that than free book?!? Also, thanks to our generous sponsors, we have more dead trees than we can handle.
