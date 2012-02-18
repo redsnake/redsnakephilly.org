@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>RedSnakePhilly 2012</title>
+ <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
+ <link href="http://redsnakephilly.org/"/>
+ <updated>2012-02-18T09:00:30-05:00</updated>
+ <id>http://redsnakephilly.org/</id>
+
+ 
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 4</title>
+  <link href="http://redsnakephilly.org/2012/02/18/redsnake-quiz-q4.html"/>
+  <updated>2012-02-18T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/18/redsnake-quiz-q4</id>
+  <content type="html">&lt;p&gt;Here is an essay question for Pythonistas:&lt;/p&gt;
+&lt;iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dDNlaHprUGJRVU90U2JBd2drcFNGUFE6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 3</title>
+  <link href="http://redsnakephilly.org/2012/02/17/redsnake-quiz-q3.html"/>
+  <updated>2012-02-17T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/17/redsnake-quiz-q3</id>
+  <content type="html">&lt;p&gt;The &amp;#8220;enough with the fluff&amp;#8221; edition.&lt;/p&gt;
+&lt;iframe frameborder='0' height='600' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dEZ0THAwZGRuNGhpaVE1TU1FY0V6Nmc6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 2</title>
+  <link href="http://redsnakephilly.org/2012/02/17/redsnake-quiz-q2.html"/>
+  <updated>2012-02-17T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/17/redsnake-quiz-q2</id>
+  <content type="html">&lt;p&gt;In keeping with our breakfast theme, here is our second quiz question!&lt;/p&gt;
+&lt;iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dGhYeFlsd241NmdwMFV0RnJSRGF2OUE6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 1</title>
+  <link href="http://redsnakephilly.org/2012/02/16/redsnake-quiz-q1.html"/>
+  <updated>2012-02-16T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/16/redsnake-quiz-q1</id>
+  <content type="html">&lt;p&gt;Goooood morning RedSnake fans! Today begins our not-so-grand book giveaway challenge. Without further &lt;em&gt;ado&lt;/em&gt;, here is our first question:&lt;/p&gt;
+&lt;iframe frameborder='0' height='400' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dDlHaTJEeTdGbWJPb2JSdE02bDhxU3c6MQ' width='600'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Fun with Prizes</title>
+  <link href="http://redsnakephilly.org/2012/02/14/redsnake-quiz.html"/>
+  <updated>2012-02-14T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/14/redsnake-quiz</id>
+  <content type="html">&lt;p&gt;Happy Valentine&amp;#8217;s Day everyone! The RedSnake cherubs are a flapping around, whispering sweet backtrace information into our terminals. We want to share these joyous feelings with all of you wonderful attendees. And what better way to do that than free book?!? Also, thanks to our generous sponsors, we have more dead trees than we can handle.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;BUT&lt;/em&gt; like all good things in life, you&amp;#8217;ve got to put in a little bit of work in to get something out:&lt;/p&gt;
+
+&lt;h3 id='announcing_the_redsnake_quiz'&gt;Announcing the RedSnake Quiz&lt;/h3&gt;
+
+&lt;p&gt;Starting on Thursday, we will be posting a series questions related to Ruby or Python. Answer the question and you will be entered to win one of the cool books we have to give. To make life a little more exciting, the book you get will be chosen at random.&lt;/p&gt;
+
+&lt;p&gt;So follow &lt;a href='https://twitter.com/#!/RedSnakePhilly'&gt;@RedSnakePhilly&lt;/a&gt; on the Twitter to get a heads-up on the questions and how to submit your answers.&lt;/p&gt;
+
+&lt;p&gt;Good luck!&lt;/p&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Mat Schaffer</name>
+   </author>
+  <title>Book Giveaways</title>
+  <link href="http://redsnakephilly.org/2012/02/03/book-giveaways.html"/>
+  <updated>2012-02-03T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/03/book-giveaways</id>
+  <content type="html">&lt;p&gt;I&amp;#8217;m happy to announce that in addition to the sweet shirts, beer and pizza being provided by our gracious &lt;a href='/sponsors/'&gt;sponsors&lt;/a&gt; we&amp;#8217;ll also be featuring a variety of book giveaways!&lt;/p&gt;
+
+&lt;p&gt;Both &lt;a href='http://www.manning.com/'&gt;Manning Publications&lt;/a&gt; and &lt;a href='http://oreilly.com/'&gt;O&amp;#8217;Reilly&lt;/a&gt; have chipped in a number of print books we&amp;#8217;ll be giving away at the event. O&amp;#8217;Reilly will also be sending us a batch of free eBook codes for the attendees. And Manning has offered at 50% off deal on all print books.&lt;/p&gt;
+
+&lt;p&gt;For the Manning deal, just email your order to &lt;a href='mailto:jason.stelzer@gmail.com'&gt;Jason Stelzer&lt;/a&gt;. Monetate will take care of the order and you can pick up your books at the event. So, 50% off all books currently in print. No shipping fee. Pay for the books you ordered at redsnake. A big thanks to Manning and &lt;a href='http://monetate.com'&gt;Monetate&lt;/a&gt; for making this happen!&lt;/p&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Mat Schaffer</name>
+   </author>
+  <title>Call For Volunteers</title>
+  <link href="http://redsnakephilly.org/2012/02/01/call-for-volunteers.html"/>
+  <updated>2012-02-01T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/01/call-for-volunteers</id>
+  <content type="html">&lt;p&gt;Hello again, everyone! Excitement is building for the coming RedSnake Philly meeting. If you didn&amp;#8217;t get a ticket, don&amp;#8217;t lose hope yet. We&amp;#8217;re hoping to squeeze a few more in so make sure to follow &lt;a href='https://twitter.com/redsnakephilly'&gt;@RedSnakePhilly&lt;/a&gt; to get the word.&lt;/p&gt;
+
+&lt;p&gt;Or consider volunteering! We&amp;#8217;re looking for about 6 volunteers to help out. 3 will be handling Registration where job duties include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Letting in the pre-registered attendees first&lt;/li&gt;
+
+&lt;li&gt;Giving out the T-Shirts and other swag&lt;/li&gt;
+
+&lt;li&gt;Staving off the chaos as we try to pack 200 people into a space built for 60 :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And 3 will be helping out with the food, including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moving pizza from the kitchen to outside the rooms&lt;/li&gt;
+
+&lt;li&gt;Keeping the beer stocked&lt;/li&gt;
+
+&lt;li&gt;Cleaning up spent boxes and bottles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href='https://twitter.com/aburnheimer'&gt;Andrew Burnheimer&lt;/a&gt; has kindly volunteered to help coordinate the video stream, but if you&amp;#8217;re interested in things of the A/V nature, feel free to get in touch with him and help out there.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re interested in helping out with any of this please &lt;a href='mailto:info@redsnakephilly.org'&gt;email us&lt;/a&gt; or hit us up on &lt;a href='https://twitter.com/redsnakephilly'&gt;twitter&lt;/a&gt;!&lt;/p&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Mat Schaffer</name>
+   </author>
+  <title>Redsnake Tickets</title>
+  <link href="http://redsnakephilly.org/2012/01/04/redsnake-tickets.html"/>
+  <updated>2012-01-04T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/01/04/redsnake-tickets</id>
+  <content type="html">&lt;p&gt;Tickets for this years RedSnakePhilly will open up next week! Space is limited at this years meeting. We want to make sure that all the Philly.rb and PhillyPUG regulars have a chance to attend. We also want to keep no-shows to a minimum for this free event.&lt;/p&gt;
+
+&lt;p&gt;To do this we&amp;#8217;re giving out real physical numbered tickets. To get your ticket, come to the &lt;a href='http://phillyrb.org/events/105'&gt;Philly.rb&lt;/a&gt; or &lt;a href='http://www.meetup.com/phillypug/events/43988742/'&gt;PhillyPUG&lt;/a&gt; meeting next week. Tom and I will be there handing out tickets and taking names. You have to be there to get a ticket, one per person. If we have tickets left after the meeting, we&amp;#8217;ll offer those online.&lt;/p&gt;
+
+&lt;p&gt;This ticket guarantess you get in to the event, but please arrive at the 6pm doors open. Because at 6:15pm we&amp;#8217;ll open the doors to anyone who shows up first-come-first-serve, with some preference shown to regular attendees of their respective user groups. So the moral is if you want to make sure you&amp;#8217;re at this year&amp;#8217;s most hard-hitting tech event, come to your user group meeting and be on time! A good new year&amp;#8217;s resolution in general, I think.&lt;/p&gt;
+
+&lt;p&gt;PS., We still have a few more days to finalize the speaker lineup. If you&amp;#8217;re interested in speaking please &lt;a href='mailto:info@redsnakephilly.org'&gt;let us know&lt;/a&gt;!&lt;/p&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>Call For Proposals Open</title>
+  <link href="http://redsnakephilly.org/2011/11/14/call-for-proposals-open.html"/>
+  <updated>2011-11-14T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2011/11/14/call-for-proposals-open</id>
+  <content type="html">&lt;p&gt;Our Call for Proposals is open! &lt;a href='http://trevmex.com/post/3198570101/redsnake-1st-annual-philly-ruby-python-meetup-notes'&gt;Last year&amp;#8217;s talks&lt;/a&gt; were really fantastic, and we are expecting that the excellent developer community here in the greater Philadelphia area can level-up to do themselves one better. So put your thinking caps on and start sending proposals to &lt;a href='mailto:info@redsnakephilly.org'&gt;&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#114;&amp;#101;&amp;#100;&amp;#115;&amp;#110;&amp;#097;&amp;#107;&amp;#101;&amp;#112;&amp;#104;&amp;#105;&amp;#108;&amp;#108;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;</content>
+</entry>
+
+
+
+</feed>
