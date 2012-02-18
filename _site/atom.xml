@@ -4,10 +4,34 @@
  <title>RedSnakePhilly 2012</title>
  <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
  <link href="http://redsnakephilly.org/"/>
- <updated>2012-02-17T11:41:58-05:00</updated>
+ <updated>2012-02-18T08:52:09-05:00</updated>
  <id>http://redsnakephilly.org/</id>
 
  
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 4</title>
+  <link href="http://redsnakephilly.org/2012/02/18/redsnake-quiz-q4.html"/>
+  <updated>2012-02-18T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/18/redsnake-quiz-q4</id>
+  <content type="html">&lt;p&gt;Here is an essay question for Pythonistas:&lt;/p&gt;
+&lt;iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dDNlaHprUGJRVU90U2JBd2drcFNGUFE6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 3</title>
+  <link href="http://redsnakephilly.org/2012/02/17/redsnake-quiz-q3.html"/>
+  <updated>2012-02-17T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/17/redsnake-quiz-q3</id>
+  <content type="html">&lt;p&gt;The &amp;#8220;enough with the fluff&amp;#8221; edition.&lt;/p&gt;
+&lt;iframe frameborder='0' height='600' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dEZ0THAwZGRuNGhpaVE1TU1FY0V6Nmc6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
 
 <entry>
    <author>
