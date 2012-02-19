@@ -4,10 +4,24 @@
  <title>RedSnakePhilly 2012</title>
  <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
  <link href="http://redsnakephilly.org/"/>
- <updated>2012-02-18T09:01:56-05:00</updated>
+ <updated>2012-02-19T10:47:58-05:00</updated>
  <id>http://redsnakephilly.org/</id>
 
  
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 5</title>
+  <link href="http://redsnakephilly.org/2012/02/19/redsnake-quiz-q5.html"/>
+  <updated>2012-02-19T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/19/redsnake-quiz-q5</id>
+  <content type="html">&lt;h4 id='some_assembly_required_edition'&gt;&amp;#8220;Some assembly required&amp;#8221; edition.&lt;/h4&gt;
+
+&lt;p&gt;Our first real coding question. Submit your best effort, ideally using a &lt;a href='http://gist.github.com'&gt;Gist on github&lt;/a&gt;, but you can submit code via the text box also. Extra points for &lt;em&gt;panache&lt;/em&gt;.&lt;/p&gt;
+&lt;iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dHZndWJ2aWM1QkQzb05iNnp0ZHM4WWc6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
 
 <entry>
    <author>
