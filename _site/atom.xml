@@ -4,10 +4,26 @@
  <title>RedSnakePhilly 2012</title>
  <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
  <link href="http://redsnakephilly.org/"/>
- <updated>2012-02-19T15:57:28-05:00</updated>
+ <updated>2012-02-20T10:00:01-05:00</updated>
  <id>http://redsnakephilly.org/</id>
 
  
+
+<entry>
+   <author>
+     <name>Angel Pizarro</name>
+   </author>
+  <title>RedSnake Quiz - Question 7</title>
+  <link href="http://redsnakephilly.org/2012/02/20/redsnake-quiz-q7.html"/>
+  <updated>2012-02-20T00:00:00-05:00</updated>
+  <id>http://redsnakephilly.org/2012/02/20/redsnake-quiz-q7</id>
+  <content type="html">&lt;p&gt;Here it is folks, Final Jeopardy! With video assist:&lt;/p&gt;
+&lt;div&gt;
+&lt;iframe frameborder='0' height='315' src='http://www.youtube.com/embed/y2R3FvS4xr4' width='420'&gt;Loading ...&lt;/iframe&gt;
+&lt;/div&gt;&lt;p&gt;
+As in the previous code question, we prefer a URL to a (gist)[http://gist.github.com]. Happy coding and see y'all tomorrow!
+&lt;/p&gt;&lt;iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/spreadsheet/embeddedform?formkey=dE9rRXpsT0ttdXNJcGRZVzdhd3Nqd0E6MQ' width='760'&gt;Loading...&lt;/iframe&gt;</content>
+</entry>
 
 <entry>
    <author>
