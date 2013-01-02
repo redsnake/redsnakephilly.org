@@ -1,9 +1,9 @@
 $min-width: 895px;
-$logo-height: 200px;
-$logo-width: 150px;
+$logo-height: 250px;
+$logo-width: 140px;
 $logo-radius: 10px;
-$logo-inner-height: 190px;
-$logo-inner-width: 40px;
+$logo-inner-height: 240px;
+$logo-inner-width: 130px;
 $logo-inner-radius: 50%;
 
 body {
@@ -48,8 +48,10 @@ aside#logo div {
 aside#logo div a {
   display: block;
   clear: both;
-  width: 90px;
-  height: 150px;
+  width: $logo-inner-width;
+  height: $logo-inner-height;
+  // width: 150px;
+  // height: 200px;
   margin: 0 auto;
   margin-top: 6px;
 }
@@ -123,7 +125,7 @@ header#sidebar h1#title {
 }
 
 header#sidebar h1#title a {
-  font-family: sans-serif;
+  font-family: $heading-font-family;
   font-weight: 900;
   font-size: 30px;
   line-height: 30px;
@@ -145,45 +147,45 @@ header#sidebar h2#subtitle {
   margin-bottom: 25px;
 }
 
-// Large screen
-@media only screen and (min-width: 1300px) {
-  #sidebar {
-    margin-left: 0;
-    padding-left: 2%;
-  }
+// // Large screen
+// @media only screen and (min-width: 1300px) {
+//   #sidebar {
+//     margin-left: 0;
+//     padding-left: 2%;
+//   }
 
-  aside#logo {
-    width: 165px;
-    height: 165px;
-  }
+//   aside#logo {
+//     width: 165px;
+//     height: 165px;
+//   }
 
-  aside#logo div {
-    width: 135px;
-    height: 135px;
-    margin-top: 15px;
-  }
+//   aside#logo div {
+//     width: 135px;
+//     height: 135px;
+//     margin-top: 15px;
+//   }
 
-  aside#logo div a {
-    width: 117px;
-    height: 117px;
-    margin-top: 9px;
-  }
+//   aside#logo div a {
+//     width: 117px;
+//     height: 117px;
+//     margin-top: 9px;
+//   }
 
-  ul#menu {
-    max-width: 300px;
-    width: 65%;
-  }
+//   ul#menu {
+//     max-width: 300px;
+//     width: 65%;
+//   }
 
-  header#sidebar h1#title a {
-    font-size: 35px;
-    line-height: 35px;
-  }
+//   header#sidebar h1#title a {
+//     font-size: 35px;
+//     line-height: 35px;
+//   }
 
-  header#sidebar h2#subtitle {
-    font-size: 20px;
-    line-height: 25px;
-  }
-}
+//   header#sidebar h2#subtitle {
+//     font-size: 20px;
+//     line-height: 25px;
+//   }
+// }
 
 // Short screen
 @media only screen and (max-height: 650px) {
