@@ -19,6 +19,9 @@
   <li class="link">
     <a href="/about/">about</a>
   </li>
+  <li class="link">
+    <a href="/speakers/">speakers</a>
+  </li>
   <li class="previous rednsakes">
     <a href="/prev_events/">previous redsnakes</a>
   </li>
@@ -30,14 +33,6 @@
     <a href="http://twitter.com/{{ site.twitter_user }}/">twitter</a>
   </li>
 {% endif %}
-{% if site.github_user and site.github_show_profile_link %}
-  <li class="link">
-    <a href="http://github.com/{{ site.github_user }}/">github</a>
-  </li>
-{% endif %}
-  <li class="link rss">
-    <a href="/atom.xml">rss feed</a>
-  </li>
 </ul>
 
 {% if site.simple_search %}
@@ -49,14 +44,3 @@
 </form>
 {% endif %}
 
-<!-- Octopress Love -->
-<aside id="octopress_linkback">
-  <a href="http://octopress.org/">
-    <span class="unicode_square">
-      <span class="unicode_circle">
-        &nbsp;
-      </span>
-    </span>
-    <span class="octopress">Powered by Octopress</span>
-  </a>
-</aside>
