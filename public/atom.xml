@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[RedSnake Philly]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-01-03T13:03:04-05:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome back Nerds!]]></title>
+    <link href="http://yoursite.com/blog/2013/01/03/welcome-back-nerds/"/>
+    <updated>2013-01-03T11:44:00-05:00</updated>
+    <id>http://yoursite.com/blog/2013/01/03/welcome-back-nerds</id>
+    <content type="html"><![CDATA[<p><span style="font-weight: bold;"> Here Ye! Here Ye!</span></p>
+
+<p>By order of the Royal Crown (or in our case the Crown Royal),
+we are announcing the RedSnakePhilly 2013 event!</p>
+
+<p>The Web Site is a little sparse at this point, but look forward to more exciting content to
+appear here in the following days.</p>
+]]></content>
+  </entry>
+  
+</feed>

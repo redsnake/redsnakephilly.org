@@ -31,7 +31,7 @@ tramp
 .gist-cache
 .pygments-cache
 _deploy
-public
+# public
 sass.old
 source.old
 source/_stash
