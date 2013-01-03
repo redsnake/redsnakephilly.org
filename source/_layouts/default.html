@@ -5,6 +5,9 @@
     {% include custom/sidebar.html %}
   </header>
   <section id="main">
+    {% if page.url == "/index.html" %}
+      {% include custom/event_header.html %}
+    {% endif %}
     {{ content | expand_urls: root_url }}
     <nav role="navigation" id="pagination">{% include navigation.html %}</nav>
   </section>

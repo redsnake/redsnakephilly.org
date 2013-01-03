@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "about"
-comments: false
-sharing: false
-footer: false
 ---
 The RedSnake is a meeting where Rubyists and Pythonistas get together to throw down some hard tech and inspire each other to level up. Ultimately we aim to accomplish the following:
 

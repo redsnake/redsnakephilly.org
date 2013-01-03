@@ -1,0 +1,16 @@
+.speaker {
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .pic, .abstract, .bio {
+    margin: 15px auto;
+  }
+}
+
+#event-header {
+  // border-bottom: 1px solid #ddd;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 15px ;
+}

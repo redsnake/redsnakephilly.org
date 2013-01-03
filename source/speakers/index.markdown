@@ -1,15 +1,16 @@
 ---
 layout: page
 title: "speakers"
-comments: false
-sharing: true
-footer: false
+date: "2013-01-03T11:07:39-05:00"
 ---
+
+We've got an exciting list of speakers this year. The list below is just a sampling for now, we will add speakers as they are confirmed. 
 
 <div class='speaker'>
   <div class='title'> Vision Spreadsheet: An Environment for Computer Vision </div>
-  <div class='pic'> ![Scott Determan](images/speakers/scott_determan.jpg 'Scott Determan')  </div>
-  <div class='author'> Scott Determan ["@MonkScott"](http://twitter.com/MonkScott) </div>
+  <div class='pic'> 
+    <img alt="Scott Determan" src="{{root_url}}/images/speakers/scott_determan.jpg"/>  </div>
+  <div class='author'> Scott Determan <a href="http://twitter.com/MonkScott"> @MonkScott </a> </div>
   <div class='abstract'>
     Vision Spreadsheet is an application designed to explore and solve computer vision problems. It provides a visual environment and a familiar computational tool set to enable creative prototyping of computer vision algorithms. A novel interface using a spreadsheet of images encourages interactive and exploratory algorithm design. Computational scientists can leverage their existing knowledge of Python, NumPy, SciPy, OpenCV, and other familiar technologies. Vision Spreadsheet aims to make the techniques of computer vision accessible to a wider audience.
   </div>
@@ -18,10 +19,12 @@ footer: false
   </div>
 </div>
 
+<br/>
+
 <div class='speaker'>
   <div class='title'> Using SimPy to Model AWS Autoscaling for Realtime Computation</div>
-  <div class='pic' >![Daniel Williams](images/speakers/dan_williams.jpg)</div>
-  <div class='author'>Daniel Williams [http://danielwilliams.org](http://danielwilliams.org)</div>
+  <div class='pic' > <img alt="Daniel Williams" src="{{root_url}}/images/speakers/dan_williams.jpg"/></div>
+  <div class='author'>Daniel Williams <a href="http://danielwilliams.org"> http://danielwilliams.org </a></div>
   <div class='abstract'>
     Our company needed to do realtime analysis of surveillance video
     clips, but the arrival rate of those clips varied greatly over the
