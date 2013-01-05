@@ -14,6 +14,7 @@ $header-subtitle-font-family: $heading-font-family !default;
 
 
 // Fonts
+
 .heading {
   font-family: $heading-font-family;
 }
@@ -37,6 +38,7 @@ body > header h2 {
 }
 
 body {
+
   line-height: 1.5em;
   color: $text-color;
   @extend .sans;
