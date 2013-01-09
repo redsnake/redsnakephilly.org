@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[RedSnake Philly]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-01-03T13:03:04-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
+  <link href="http://redsnakephilly.org/"/>
+  <updated>2013-01-08T22:00:22-05:00</updated>
+  <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome back Nerds!]]></title>
-    <link href="http://yoursite.com/blog/2013/01/03/welcome-back-nerds/"/>
+    <link href="http://redsnakephilly.org/blog/2013/01/03/welcome-back-nerds/"/>
     <updated>2013-01-03T11:44:00-05:00</updated>
-    <id>http://yoursite.com/blog/2013/01/03/welcome-back-nerds</id>
+    <id>http://redsnakephilly.org/blog/2013/01/03/welcome-back-nerds</id>
     <content type="html"><![CDATA[<p><span style="font-weight: bold;"> Here Ye! Here Ye!</span></p>
 
 <p>By order of the Royal Crown (or in our case the Crown Royal),
