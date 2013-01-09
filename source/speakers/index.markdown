@@ -4,11 +4,11 @@ title: "speakers"
 date: "2013-01-03T11:07:39-05:00"
 ---
 
-We've got an exciting list of speakers this year. The list below is just a sampling for now, we will add speakers as they are confirmed. 
+We've got an exciting list of speakers this year. The list below is just a sampling for now, we will add speakers as they are confirmed.
 
 <div class='speaker'>
   <div class='title'> Vision Spreadsheet: An Environment for Computer Vision </div>
-  <div class='pic'> 
+  <div class='pic'>
     <img alt="Scott Determan" src="{{root_url}}/images/speakers/scott_determan.jpg"/>  </div>
   <div class='author'> Scott Determan <a href="http://twitter.com/MonkScott"> @MonkScott </a> </div>
   <div class='abstract'>
@@ -41,3 +41,22 @@ We've got an exciting list of speakers this year. The list below is just a sampl
     building things.
   </div>
 </div>
+
+<div class='speaker'>
+  <div class='title'>A Field Guide to Ruby and Python</div>
+  <div class='pic' ><img alt="Pam Selle" src="{{root_url}}/images/speakers/pam_selle.jpg"/></div>
+  <div class='author'>Pam Selle <a href="http://thewebivore.com/">http://thewebivore.com</a></div>
+  <div class='abstract'>
+    Trudging through the wilds and rivalries of Ruby and Python, I'll discuss
+    methods for identifying a Ruby or Python developer in the wild, the evolution
+    of the languages, and more.
+  </div>
+  <div class='bio'>
+    Pam Selle is a software engineer in the land of Rails by day and Pythonista on
+    the weekends/evenings. She's active in many developer communities, and has
+    presented at Ruby meetups and at PyCon 2012. She's also an instructor for
+    GirlDevelopIt and PyStar, an open source contributor and enthusiast, and
+    blogger at <a href="http://thewebivore.com">thewebivore.com</a>.
+  </div>
+</div>
+
