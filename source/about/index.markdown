@@ -2,6 +2,7 @@
 layout: page
 title: "about"
 ---
+
 The RedSnake is a meeting where Rubyists and Pythonistas get together to throw down some hard tech and inspire each other to level up. Ultimately we aim to accomplish the following:
 
 1. To be the premier technical event for hardcore programmers in Philadelphia
