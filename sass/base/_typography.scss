@@ -3,8 +3,9 @@ $sans: "Average", "Helvetica Neue", Arial, sans-serif !default;
 $serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
 
-@import url(http://fonts.googleapis.com/css?family=Average);
-$my-font: 'Average', serif;
+@import url(http://fonts.googleapis.com/css?family=Average|Cardo);
+// $my-font: 'Average', serif;
+$my-font: 'Cardo', serif;
 
 $heading-font-family: $my-font;
 $header-title-font-family: $heading-font-family !default;
