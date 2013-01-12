@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2013-01-12T16:31:19-05:00</updated>
+  <updated>2013-01-12T16:43:19-05:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Role Call]]></title>
+    <link href="http://redsnakephilly.org/blog/2013/01/12/role-call/"/>
+    <updated>2013-01-12T16:41:00-05:00</updated>
+    <id>http://redsnakephilly.org/blog/2013/01/12/role-call</id>
+    <content type="html"><![CDATA[<p>We&#8217;ve updated the list of talks, so go check out the
+fantastic set of speakers we have so far. More to come as
+we get their abstracts and other details.</p>
+
+<p><a href="http://redsnakephilly.org/speakers" > Red Snake 2013 Speakers </a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Get Yer Tickets]]></title>
+    <link href="http://redsnakephilly.org/blog/2013/01/12/get-yer-tickets/"/>
+    <updated>2013-01-12T16:36:00-05:00</updated>
+    <id>http://redsnakephilly.org/blog/2013/01/12/get-yer-tickets</id>
+    <content type="html"><![CDATA[<p>We are opening up tickets for grabs. Be quick!</p>
+
+<p><a href="http://redsnakephilly.ticketleap.com/2013/" > Red Snake Philly 2013 tickets </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome back Nerds!]]></title>
