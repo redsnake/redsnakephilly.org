@@ -18,6 +18,7 @@ We've got an exciting list of speakers this year. The list below is just a sampl
     Scott has been building computer vision software for over twenty years. He is especially interested in vision applications for the life sciences.
   </div>
 </div>
+<br class="spacer clear" />
 
 
 <div class='speaker'>
@@ -37,6 +38,8 @@ We've got an exciting list of speakers this year. The list below is just a sampl
     blogger at <a href="http://thewebivore.com">thewebivore.com</a>.
   </div>
 </div>
+<br class="spacer clear" />
+
 
 <div class='speaker'>
   <div class='title'> Using SimPy to Model AWS Autoscaling for Realtime Computation</div>
@@ -58,7 +61,7 @@ We've got an exciting list of speakers this year. The list below is just a sampl
     building things.
   </div>
 </div>
-
+<br class="spacer clear" />
 
 
 <div class='speaker'>
@@ -82,6 +85,7 @@ works as an independent consultant designing and developing systems
 for scientific research.
   </div>
 </div>
+<br class="spacer clear" />
 
 
 <div class='speaker'>
@@ -96,6 +100,7 @@ for scientific research.
     Jeff is the Director of Architecture at Monetate.
   </div>
 </div>
+<br class="spacer clear" />
 
 
 <div class='speaker'>
@@ -123,6 +128,7 @@ optimizations employeda combination of generic programming, template
 metaprogramming, code generation, and performance measurement.
   </div>
 </div>
+<br class="spacer clear" />
 
 
 <div class='speaker'>
@@ -146,6 +152,7 @@ Kyle is the head of technology at Relay Network, working to fix Business to Cons
 <br/>Kyle has worked in domains ranging from e-commerce to web harvesting to large scale data integration. He has a very understanding wife who puts up with his technical vagaries and two adorable daughters (both named after cities). He cooks a mean soufflé.
   </div>
 </div>
+<br class="spacer clear" />
 
 
 <!-- 

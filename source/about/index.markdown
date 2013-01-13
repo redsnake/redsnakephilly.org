@@ -29,8 +29,8 @@ The format is 2 hours of alternating 10 minute lightning talks. It's intense, te
   <div class="bio">Tom is Founder and Lead Engineer at <a href="http://loveparkrobotics.com/" target="blank" alt="loveparkrobotics.com">Love Park Robotics</a>, a cyber-physical systems software company in Philadelphia.  He has been programming in Python since last century. Most recently, he has been using Python to enable computers to see and robots to act intelligently. Tom organizes the <a href="http://phillypug.org" alt="Philadelphia Python User's Group">Philadelphia Python User's Group (PhillyPUG)</a>. 
   </div>
 </div>
-<br/>
-<br/>
+<br class="spacer clear" />
+
 
 <div class="person">
   <div class="name">
@@ -47,8 +47,8 @@ The format is 2 hours of alternating 10 minute lightning talks. It's intense, te
     Angel Pizarro leads a <a href="http://bioinf.itmat.upenn.edu/home.html" alt="ITMAT Bioinformatics Facility">bioinformatics group at UPENN</a> designing and developing systems and applications to solve large-scale problems in genomics. In his spare time, he <a href="http://critterkins.com" target="blank">likes to make silly things</a>.
   </div>
 </div>
-<br/>
-<br/>
+<br class="spacer clear" />
+
 
 <div class="person">
   <div class="name">
