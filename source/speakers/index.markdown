@@ -93,7 +93,7 @@ for scientific research.
   <div class='pic' ><img alt="Jeffrey J. Persch" src="{{root_url}}/images/speakers/jeff_persch.jpg"/></div>
   <div class='author'>Jeffrey J. Persch</div>
   <div class='abstract'>
-    How do you know your software will work at scale? This talk will examine how we 
+    How do you know your software will work at scale? This talk will examine how we
     use Python to gain confidence in the deployment of large scale systems.
   </div>
   <div class='bio'>
@@ -135,7 +135,7 @@ metaprogramming, code generation, and performance measurement.
   <div class='title'>The Patterns You Can't {See, Refactor}</div>
   <div class='pic' ><img alt="Kyle Burton" src="{{root_url}}/images/speakers/kyle_burton.jpg"/></div>
   <div class='author'>
-    Kyle Burton 
+    Kyle Burton
     <a href="http://twitter.com/kburton">@kburton</a>
     <a href="http://github.com/kyleburton">github.com/kyleburton</a></div>
   <div class='abstract'>
