@@ -179,6 +179,33 @@ Kyle is the head of technology at Relay Network, working to fix Business to Cons
 </div>
 <br class="spacer clear" />
 
+<div class='speaker'>
+  <div class='title'>Building Command-line Applications with Ruby</div>
+  <div class='pic' ><img alt="Hector Castro" src="{{root_url}}/images/speakers/hcastro.jpg"/></div>
+  <div class='author'>
+    Hector Castro
+    <a href="http://twitter.com/hectcastro">@hectcastro</a></div>
+  <div class='abstract'>
+    Command-line applications are beautiful.  They can be easily automated
+    using scripts, they're fast, they're lightweight, and they're
+    efficient.  Building command-line applications with Ruby is relatively
+    straightforward as there are several toolkits to aid with the process.
+
+    In this talk, I'll go through the process of building a command-line
+    application in Ruby with <a href="http://whatisthor.com/">Thor</a> and testing it with <a href="http://cukes.info/">Cucumber</a>/<a href="https://github.com/cucumber/aruba/">Aruba</a>.  Thor is a Ruby toolkit for building command-line
+    applications.  Cucumber is a behavior-driven development framework.
+    Aruba is an extension to Cucumber that allows external testing of
+    command-line applications written in any language.
+  </div>
+  <div class='bio'>
+    Hector Castro is a Technical Evangelist at Basho Technologies and has
+    been an active member of the Philadelphia tech community since early
+    2009.  He spends most of the day telling computers what to do, but
+    because he doesn't know how they work, it's really an uphill battle.
+  </div>
+</div>
+<br class="spacer clear" />
+
 <!--
 <div class='speaker'>
   <div class='title'>TITLE</div>
