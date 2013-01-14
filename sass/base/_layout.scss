@@ -1,10 +1,5 @@
 $min-width: 895px;
-$logo-height: 250px;
-$logo-width: 140px;
-$logo-radius: 10px;
-$logo-inner-height: 240px;
-$logo-inner-width: 130px;
-$logo-inner-radius: 50%;
+$logo-height: 220px;
 
 body {
   min-width: $min-width;
@@ -24,37 +19,11 @@ body {
 aside#logo {
   position: relative;
   display: block;
-  width: $logo-width;
-  height: $logo-height;
-  border-radius: $logo-radius;
-  -moz-border-radius: $logo-radius;
-  -webkit-border-radius: $logo-radius;
   margin-left: 30px;
-  margin-top: 40px;
-}
-
-aside#logo div {
-  border-radius: $logo-inner-radius;
-  -moz-border-radius: $logo-inner-radius;
-  -webkit-border-radius: $logo-inner-radius;
-  width: $logo-inner-width;
-  height: $logo-inner-height;
-  text-indent: -9999px;
-  margin: 0 auto;
   margin-top: 10px;
-  clear: both;
+  margin-bottom: 10px;
 }
 
-aside#logo div a {
-  display: block;
-  clear: both;
-  width: $logo-inner-width;
-  height: $logo-inner-height;
-  // width: 150px;
-  // height: 200px;
-  margin: 0 auto;
-  margin-top: 6px;
-}
 
 ul#menu {
   clear: both;
@@ -106,7 +75,7 @@ header#sidebar h1#title {
   font-size: 15px;
   letter-spacing: 0;
   text-transform: uppercase;
-  font-family: "Rokkitt",serif;
+  font-family: "Average",serif;
   font-weight: 900;
   line-height: 15px;
   padding: 10px;
@@ -141,7 +110,7 @@ header#sidebar h2#subtitle {
   font-size: 16px;
   line-height: 23px;
   color: #585C60;
-  -webkit-font-smoothing: antialiased;
+//  -webkit-font-smoothing: antialiased;
   max-width: none;
   margin-top: 5px;
   margin-bottom: 25px;

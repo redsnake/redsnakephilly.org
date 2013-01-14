@@ -1,10 +1,38 @@
-.speaker {
+.clear { 
+  clear: both; 
+  padding-bottom: 20px;
+}
+
+.spacer { 
+  display: block;
+  padding: 20px;
+}
+
+.speaker, .person {
+  margin-bottom: 10px;
+  padding-bottom: 20px;
   .title {
-    font-size: 24px;
+    color: #61211B;
+    margin-bottom: 10px;
+    font-size: 20px;
     font-weight: bold;
   }
-  .pic, .abstract, .bio {
-    margin: 15px auto;
+  .pic {
+    float: left;
+    // margin: 15px auto;
+    padding-right: 15px;
+    img { 
+      height: 175px;
+    }
+  }
+  .author, .name {
+    font-weight: bold;
+  }
+  .links a {
+    color: #274675;
+    font-size: 14px;
+    border-bottom-style: none;
+
   }
 }
 
@@ -14,3 +42,8 @@
   margin-top: 15px;
   padding: 15px ;
 }
+
+html { 
+  -webkit-font-smoothing: antialiased;
+}
+

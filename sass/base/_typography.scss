@@ -1,26 +1,26 @@
 $blockquote: $type-border !default;
-$sans: "Karla", "Helvetica Neue", Arial, sans-serif !default;
+$sans: "Average", "Helvetica Neue", Arial, sans-serif !default;
 $serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
 
-@import url(http://fonts.googleapis.com/css?family=IM+Fell+English+SC|IM+Fell+Double+Pica);
-$im-fell-sc: 'IM Fell English SC', serif;
-$im-fell-pica: 'IM Fell Double Pica', serif;
+@import url(http://fonts.googleapis.com/css?family=Average|Cardo);
+// $my-font: 'Average', serif;
+$my-font: 'Cardo', serif;
 
-
-$heading-font-family: $im-fell-sc;
+$heading-font-family: $my-font;
 $header-title-font-family: $heading-font-family !default;
 $header-subtitle-font-family: $heading-font-family !default;
 
 
 // Fonts
+
 .heading {
   font-family: $heading-font-family;
 }
 // .sans { font-family: $sans; }
 // .serif { font-family: $serif; }
-.sans { font-family: $im-fell-pica; }
-.serif { font-family: $im-fell-pica; }
+.sans { font-family: $my-font; }
+.serif { font-family: $my-font; }
 
 .mono { font-family: $mono; }
 
@@ -37,6 +37,7 @@ body > header h2 {
 }
 
 body {
+
   line-height: 1.5em;
   color: $text-color;
   @extend .sans;
