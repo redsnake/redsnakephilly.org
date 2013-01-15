@@ -63,6 +63,32 @@ We've got an exciting list of speakers this year. The list below is just a sampl
 </div>
 <br class="spacer clear" />
 
+<div class='speaker'>
+  <div class='title'>Building Command-line Applications with Ruby</div>
+  <div class='pic' ><img alt="Hector Castro" src="{{root_url}}/images/speakers/hcastro.jpg"/></div>
+  <div class='author'>
+    Hector Castro
+    <a href="http://twitter.com/hectcastro">@hectcastro</a></div>
+  <div class='abstract'>
+    Command-line applications are beautiful.  They can be easily automated
+    using scripts, they're fast, they're lightweight, and they're
+    efficient.  Building command-line applications with Ruby is relatively
+    straightforward as there are several toolkits to aid with the process.
+
+    In this talk, I'll go through the process of building a command-line
+    application in Ruby with <a href="http://whatisthor.com/">Thor</a> and testing it with <a href="http://cukes.info/">Cucumber</a>/<a href="https://github.com/cucumber/aruba/">Aruba</a>.  Thor is a Ruby toolkit for building command-line
+    applications.  Cucumber is a behavior-driven development framework.
+    Aruba is an extension to Cucumber that allows external testing of
+    command-line applications written in any language.
+  </div>
+  <div class='bio'>
+    Hector Castro is a Technical Evangelist at Basho Technologies and has
+    been an active member of the Philadelphia tech community since early
+    2009.  He spends most of the day telling computers what to do, but
+    because he doesn't know how they work, it's really an uphill battle.
+  </div>
+</div>
+<br class="spacer clear" />
 
 <div class='speaker'>
   <div class='title'>How the python got it's stripes: Simulating nature's patterns with Numpy</div>
@@ -87,6 +113,30 @@ for scientific research.
 </div>
 <br class="spacer clear" />
 
+<div class='speaker'>
+  <div class='title'>Building Android Apps with JRuby and Ruboto</div>
+  <div class='pic' ><img alt="Rob Di Marco" src="{{root_url}}/images/speakers/dimarco.jpg"/></div>
+  <div class='author'>
+    Rob Di Marco
+    <a href="http://www.innovationontherun.com/">http://www.innovationontherun.com</a>
+    <a href="http://twitter.com/iotr">@iotr</a>
+  </div>
+  <div class='abstract'>
+    Want to build a native Android app but shuddering at
+    the constraints put upon you by developing in Java?  Then Ruboto may be for
+    you.  This development framework, spun out from the JRuby team, allows you to
+    build your application in Ruby while allowing you direct access to the full
+    Android Java APIs.  This talk will demonstrate the power of using Ruboto for
+    your Android development.
+  </div>
+  <div class='bio'>
+    Rob has been coding professionally in Java and / or Ruby for 15 years.
+    Currently, he serves as CTO for eLocal USA, LLC.  Outside of work, he enjoys
+    hoppy beers, playing soccer, competing in triathlons, and taking way too many
+    open online courses.
+  </div>
+</div>
+<br class="spacer clear" />
 
 <div class='speaker'>
   <div class='title'>Testing Python Web Applications at Scale</div>
@@ -102,6 +152,10 @@ for scientific research.
 </div>
 <br class="spacer clear" />
 
+<h2> Special Guest Speakers </h2>
+<div style="margin-bottom: 20px;">
+  Because we don't live in a vacuum, and we can all learn from other technologies and languages, RedSnake is proud to welcome two excellent talks on C++ and Lisp.
+ </div> 
 
 <div class='speaker'>
   <div class='title'>C++ templates</div>
@@ -154,57 +208,7 @@ Kyle is the head of technology at Relay Network, working to fix Business to Cons
 </div>
 <br class="spacer clear" />
 
-<div class='speaker'>
-  <div class='title'>Building Android Apps with JRuby and Ruboto</div>
-  <div class='pic' ><img alt="Rob Di Marco" src="{{root_url}}/images/speakers/dimarco.jpg"/></div>
-  <div class='author'>
-    Rob Di Marco
-    <a href="http://www.innovationontherun.com/">http://www.innovationontherun.com</a>
-    <a href="http://twitter.com/iotr">@iotr</a>
-  </div>
-  <div class='abstract'>
-    Want to build a native Android app but shuddering at
-    the constraints put upon you by developing in Java?  Then Ruboto may be for
-    you.  This development framework, spun out from the JRuby team, allows you to
-    build your application in Ruby while allowing you direct access to the full
-    Android Java APIs.  This talk will demonstrate the power of using Ruboto for
-    your Android development.
-  </div>
-  <div class='bio'>
-    Rob has been coding professionally in Java and / or Ruby for 15 years.
-    Currently, he serves as CTO for eLocal USA, LLC.  Outside of work, he enjoys
-    hoppy beers, playing soccer, competing in triathlons, and taking way too many
-    open online courses.
-  </div>
-</div>
-<br class="spacer clear" />
 
-<div class='speaker'>
-  <div class='title'>Building Command-line Applications with Ruby</div>
-  <div class='pic' ><img alt="Hector Castro" src="{{root_url}}/images/speakers/hcastro.jpg"/></div>
-  <div class='author'>
-    Hector Castro
-    <a href="http://twitter.com/hectcastro">@hectcastro</a></div>
-  <div class='abstract'>
-    Command-line applications are beautiful.  They can be easily automated
-    using scripts, they're fast, they're lightweight, and they're
-    efficient.  Building command-line applications with Ruby is relatively
-    straightforward as there are several toolkits to aid with the process.
-
-    In this talk, I'll go through the process of building a command-line
-    application in Ruby with <a href="http://whatisthor.com/">Thor</a> and testing it with <a href="http://cukes.info/">Cucumber</a>/<a href="https://github.com/cucumber/aruba/">Aruba</a>.  Thor is a Ruby toolkit for building command-line
-    applications.  Cucumber is a behavior-driven development framework.
-    Aruba is an extension to Cucumber that allows external testing of
-    command-line applications written in any language.
-  </div>
-  <div class='bio'>
-    Hector Castro is a Technical Evangelist at Basho Technologies and has
-    been an active member of the Philadelphia tech community since early
-    2009.  He spends most of the day telling computers what to do, but
-    because he doesn't know how they work, it's really an uphill battle.
-  </div>
-</div>
-<br class="spacer clear" />
 
 <!--
 <div class='speaker'>
