@@ -6,6 +6,15 @@ title: "sponsors"
 Want to sponsor this awesome event? Email <a href="mailto:info@redsnakephilly.org"> info@redsnakephilly.org </a> !
 
 <div class="post">
+  <a href="http://www.seerinteractive.com/">
+    <img class="pic" style="float:left; width:250px; margin-right:25px;" src="{{root_url}}/images/sponsors/seer.png" alt="SEER Interactive" />
+  </a>
+  <p class="text" style="margin-top:50px;">SEER Interactive is a national leader among digital marketing agencies, our experienced team of SEO, PPC and Analytics associates have the expertise to not only get you ranked and get your ads driving clicks to your website, but to analyze the impact our efforts have where it matters, on your bottom line. We’re an Analytics first company, and we will not take on projects where we can’t analyze our impact on your business.
+  </p>
+</div>
+<br class="spacer clear" />
+
+<div class="post">
   <a href="http://www.monetate.com/">
     <img class="pic" style="float:left; width:250px; margin-right:25px;" src="{{root_url}}/images/sponsors/monetate.png" alt="Monetate" />
   </a>
@@ -14,6 +23,7 @@ Want to sponsor this awesome event? Email <a href="mailto:info@redsnakephilly.or
   </p>
 </div>
 <br class="spacer clear" />
+
 <div class="post">
   <a href="http://www.sig.com/">
     <img class="pic" style="float:left; width:250px; margin-right:25px;" src="{{root_url}}/images/sponsors/sig.png" alt="SIG" />
@@ -23,6 +33,17 @@ Want to sponsor this awesome event? Email <a href="mailto:info@redsnakephilly.or
   </p>
 </div>
 <br class="spacer clear" />
+
+<div class="post">
+  <a href="http://www.relaynetwork.com">
+    <img class="pic" style="float:left; width:169px; margin-right:25px;" src="{{root_url}}/images/sponsors/relay.jpg" alt="Relay" />
+  </a>
+  <p class="text" style="margin-top:50px;">Relay makes it as easy for people to talk to their businesses as they can talk to their friends. We do this by providing a simple and secure way for businesses and customers to instantly connect and share private communications... all in real-time. Through a direct mobile interface, consumers can quickly and easily complete transactions, access timely information, and get one-to-one support from the businesses and organizations that matter most in their lives.  Relay is a revenue-generating, venture-backed firm, founded by a team of successful entrepreneurs. We are a repeat winner of the Best Places to Work in Philadelphia award, and offer an unparalleled package of benefits, including unlimited vacation time. (Let me repeat that one... unlimited vacation time.) For more information, please visit <a href="http://www.relaynetwork.com"> www.relaynetwork.com</a>. 
+  </p>
+</div>
+<br class="spacer clear" />
+
+
 <div class="post">
   <a href="http://loveparkrobotics.com/">
     <img class="pic" style="float:left; width:169px; margin-right:25px;" src="{{root_url}}/images/sponsors/love_park_robotics.png" alt="Love Park Robotics" />
