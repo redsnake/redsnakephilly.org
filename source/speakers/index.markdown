@@ -152,6 +152,26 @@ for scientific research.
 </div>
 <br class="spacer clear" />
 
+<div class='speaker'>
+  <div class='title'>
+    Using RubyMotion for rapid iOS development
+  </div>
+  <div class='pic' ><img alt="Justin Campbell" src="{{root_url}}/images/speakers/justin_campbell.jpg"/></div>
+  <div class='author'>
+    Justin Campbell
+    <a href="http://justincampbell.me">
+      http://justincampbell.me
+    </a>
+  </div>
+  <div class='abstract'>
+    People love iOS apps. You love building things that people love. Wouldn't it be great if you could build an app using the tools you already know? Let's take a quick tour of the RubyMotion ecosystem and how to get started.
+  </div>
+  <div class='bio'>
+    Justin is a consultant at Mashion, where he works mostly with Ruby and Chef.
+  </div>
+</div>
+<br class="spacer clear" />
+
 <h2> Special Guest Speakers </h2>
 <div style="margin-bottom: 20px;">
   Because we don't live in a vacuum, and we can all learn from other technologies and languages, RedSnake is proud to welcome two excellent talks on C++ and Lisp.
