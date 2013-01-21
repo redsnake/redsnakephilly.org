@@ -47,3 +47,14 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+#agenda {
+  table {
+    th, td {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    th {
+      font-weight: bold;
+    }
+  }
+}

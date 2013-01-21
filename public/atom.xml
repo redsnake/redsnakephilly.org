@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2013-01-17T12:59:47-05:00</updated>
+  <updated>2013-01-20T22:10:43-05:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The agenda has been posted]]></title>
+    <link href="http://redsnakephilly.org/blog/2013/01/20/the-agenda-has-been-posted/"/>
+    <updated>2013-01-20T22:02:00-05:00</updated>
+    <id>http://redsnakephilly.org/blog/2013/01/20/the-agenda-has-been-posted</id>
+    <content type="html"><![CDATA[<p>We have posted the <a href="http://redsnakephilly.org/event_details/#agenda">Agenda</a>
+to the <a href="http://redsnakephilly.org/event_details/">Event Details</a> page.</p>
+
+<p>We are also proud to say that almost two thirds of the tickets for the
+event have been claimed. If you are half-as excited as we are, then
+take a chill pill buddy. We still have four weeks to go.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Role Call]]></title>
