@@ -7,6 +7,26 @@ date: "2013-01-12"
 We've got an exciting list of speakers this year. The list below is just a sampling for now, we will add speakers as they are confirmed.
 
 <div class='speaker'>
+  <div class='title'>A Field Guide to Ruby and Python</div>
+  <div class='pic' ><img alt="Pam Selle" src="{{root_url}}/images/speakers/pam_selle.jpg"/></div>
+  <div class='author'>Pam Selle <a href="http://thewebivore.com/">http://thewebivore.com</a></div>
+  <div class='abstract'>
+    Trudging through the wilds and rivalries of Ruby and Python, I'll discuss
+    methods for identifying a Ruby or Python developer in the wild, the evolution
+    of the languages, and more.
+  </div>
+  <div class='bio'>
+    Pam Selle is a software engineer in the land of Rails by day and Pythonista on
+    the weekends/evenings. She's active in many developer communities, and has
+    presented at Ruby meetups and at PyCon 2012. She's also an instructor for
+    GirlDevelopIt and PyStar, an open source contributor and enthusiast, and
+    blogger at <a href="http://thewebivore.com">thewebivore.com</a>.
+  </div>
+</div>
+<br class="spacer clear" />
+
+
+<div class='speaker'>
   <div class='title'> Vision Spreadsheet: An Environment for Computer Vision </div>
   <div class='pic'>
     <img alt="Scott Determan" src="{{root_url}}/images/speakers/scott_determan.jpg"/>  </div>
@@ -22,20 +42,14 @@ We've got an exciting list of speakers this year. The list below is just a sampl
 
 
 <div class='speaker'>
-  <div class='title'>A Field Guide to Ruby and Python</div>
-  <div class='pic' ><img alt="Pam Selle" src="{{root_url}}/images/speakers/pam_selle.jpg"/></div>
-  <div class='author'>Pam Selle <a href="http://thewebivore.com/">http://thewebivore.com</a></div>
+  <div class='title'>Coming of age with Ruby</div>
+  <div class='pic' ><img alt="Jearvon Dharrie" src="{{root_url}}/images/speakers/jearvon_dharrie.jpg"/></div>
+  <div class='author'>Jearvon Dharrie<a href="http://twitter.com/jearvon">@jearvon</a></div>
   <div class='abstract'>
-    Trudging through the wilds and rivalries of Ruby and Python, I'll discuss
-    methods for identifying a Ruby or Python developer in the wild, the evolution
-    of the languages, and more.
+Ruby and Rails are approaching adulthood. Enterprise and startup companies alike have made large investments into the Ruby and Rails community. The upcoming release of Ruby 2.0 and Rails 4.0 represents some interesting steps for both the maintainers and users of these projects. We'll explore the current and future impacts this has on the feature set and the communities.
   </div>
   <div class='bio'>
-    Pam Selle is a software engineer in the land of Rails by day and Pythonista on
-    the weekends/evenings. She's active in many developer communities, and has
-    presented at Ruby meetups and at PyCon 2012. She's also an instructor for
-    GirlDevelopIt and PyStar, an open source contributor and enthusiast, and
-    blogger at <a href="http://thewebivore.com">thewebivore.com</a>.
+Jearvon is a developer at Neomind Labs, where he primarily works with Rails. He is an active member in the community and has recently taken to organizing Philly.rb and is even teaching a few classes.
   </div>
 </div>
 <br class="spacer clear" />
