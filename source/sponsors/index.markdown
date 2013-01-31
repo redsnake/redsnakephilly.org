@@ -55,6 +55,23 @@ Want to sponsor this awesome event? Email <a href="mailto:info@redsnakephilly.or
 <br class="spacer clear" />
 
 <div class="post">
+  <a href="http://basho.com">
+    <img class="pic" style="float:left; width:169px; margin-right:25px;" src="{{root_url}}/images/sponsors/basho.png
+" alt="Basho" />
+  </a>
+  <p class="text" style="margin-top:50px;">
+    Basho Technologies is the leader in distributed systems. Basho's
+    flagship software is Riak, an open source, distributed database used
+    in production by 1000s of companies like Comcast, Yammer, enStratus,
+    GitHub, and BestBuy. Riak is made to scale out (and in) with
+    applications, be highly-available, and simplify operations at scale
+    for developers and ops professionals.
+  </p>
+</div>
+<br class="spacer clear" />
+
+
+<div class="post">
   <a href="http://loveparkrobotics.com/">
     <img class="pic" style="float:left; width:169px; margin-right:25px;" src="{{root_url}}/images/sponsors/love_park_robotics.png" alt="Love Park Robotics" />
   </a>
