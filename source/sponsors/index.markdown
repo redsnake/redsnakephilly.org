@@ -70,6 +70,18 @@ Want to sponsor this awesome event? Email <a href="mailto:info@redsnakephilly.or
 </div>
 <br class="spacer clear" />
 
+<div class="post">
+  <a href="http://www.newyorklife.com">
+    <img class="pic" style="float:left; width:169px; margin-right:25px;" src="{{root_url}}/images/sponsors/new_york_life.jpg
+" alt="New York Life Insurance" />
+  </a>
+  <p class="text" style="margin-top:50px;">
+As with most other things in Life, the key to achieving your Long-Term Financial objectives is Planning. Your Goal may be to fund your children's College Education, Protect your Family during your working years, or Guarantee your own Retirement security. These things won't happen by accident. It's important to determine what you'd like to achieve financially and then Map out a strategy that Will help you meet those goals. The Good news is that it's Never too late to Start.
+</p><p>
+Of course, planning your financial future can be intimidating. Luckily, you don't have to do it alone. As a New York Life Insurance Agent, and a Registered Representative of NYLIFE Securities LLC, in the Constitution General Office.  I am a trained professional who can help you identify your financial needs and then determine which insurance and financial products can best help you meet your objectives.    
+  </p>
+</div>
+<br class="spacer clear" />
 
 <div class="post">
   <a href="http://loveparkrobotics.com/">
