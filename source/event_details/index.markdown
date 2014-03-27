@@ -3,20 +3,23 @@ layout: page
 title: "event details"
 ---
 
-<h2>RedSnakePhilly 'XIII       </h2>
-<h3>Date: February 15, 2013    </h3>
-<h3>Time: 3:30PM - 9:30PM      </h3>
+<h2>RedSnakePhilly 'XIV      </h2>
+<h3>Date: April 5, 2014
+<h3>Time: 4:00PM - 9:00PM      </h3>
 <h3>
-  Location: <a style="text-decoration: underline;" href='http://www.seerinteractive.com/inside-seer/new-office'>SEER Interactive</a> 
+  Location: <a style="text-decoration: underline;" href='http://philadelphia.impacthub.net'>Impact Hub Philadelphia</a> 
 </h3>
 
-<div id='widget' style="width: 390px; padding: 5px;">
-<link href="http://widgets.ticketleap.com/widget.css" media="screen" rel="stylesheet" type="text/css" /><script src="http://widgets.ticketleap.com/widget.js" type="text/javascript"></script><div id="tl-widget-wrapper"><script type="text/javascript">tl_widget.update_widget("http://redsnakephilly.ticketleap.com/widget/", "events=2013&frame_color=#DDDDDD&frame_text_color=#565656");</script><!--[if IE 6]><div style="display:none"><![endif]--><div style="width: 100%; display: table; height: 200px;"><div style="display: table-cell; vertical-align: middle; text-align: center;"><img src="http://widgets.ticketleap.com/loading.gif" /></div></div><!--[if IE 6]></div><![endif]--></div>
-</div>
+<a href="http://www.eventbrite.com/event/11094145889?ref=ebtn" target="_blank">
+<img border="0" src="http://www.eventbrite.com/custombutton?eid=4653432542"
+alt="RedSnakePhilly 2014" /></a>
+
 
 <a name="agenda" />
 <div id='agenda'>
-<h2> Agenda </h2> 
+<h2> Agenda </h2>
+<p>Agenda comming soon!</p>
+<!--
 <table>
 <tr> <th> Time </th> <th> Who</th> <th> What </th> </tr> 
 <tr> <td> 3:30 </td> <td> </td> <td> Doors open + Social Time </td> </tr> 
@@ -42,4 +45,5 @@ title: "event details"
 <tr> <td> 8:30 </td> <td> </td> <td> Social </td> </tr> 
 <tr> <td> 9:30 </td> <td> </td> <td> Go home, you bunch of freeloaders. </td> </tr> 
 </table>
+-->
 </div> 
