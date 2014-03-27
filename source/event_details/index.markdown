@@ -10,10 +10,7 @@ title: "event details"
   Location: <a style="text-decoration: underline;" href='http://philadelphia.impacthub.net'>Impact Hub Philadelphia</a> 
 </h3>
 
-<a href="http://www.eventbrite.com/event/11094145889?ref=ebtn" target="_blank">
-<img border="0" src="http://www.eventbrite.com/custombutton?eid=4653432542"
-alt="RedSnakePhilly 2014" /></a>
-
+<a href="https://www.eventbrite.com/e/redsnake-philly-2014-tickets-11094145889" style="font-family:Helvetica, arial; background:#666 ; border:1px solid #888; text-shadow:0 -1px #666666;font-size:15px;-moz-border-radius:4px;-webkit-border-radius:4px;-moz-box-shadow:0 2px 3px rgba(0, 0, 0, .3);-webkit-box-shadow:0 2px 3px rgba(0, 0, 0, .3);display: inline-block;margin:0;text-align:center;padding:2px 10px 2px;text-decoration:none;font-weight:bold;color:#FFFFFF;" target="_top">Get a ticket</a>
 
 <a name="agenda" />
 <div id='agenda'>
