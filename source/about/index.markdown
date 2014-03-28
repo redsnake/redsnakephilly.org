@@ -19,7 +19,7 @@ The format is 2 hours of alternating 10 minute lightning talks. It's intense, te
 
 <div class="person">
   <div class="name">
-  Amber Batula
+  Alyssa Batula
   </div>
   <div class="links">
   <a href="http://music.ece.drexel.edu/people/abatula" target="blank">http://music.ece.drexel.edu/people/abatula</a>
