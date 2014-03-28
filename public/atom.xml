@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-03-27T20:52:05-04:00</updated>
+  <updated>2014-03-27T21:36:56-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The speakers]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/27/the-speakers/"/>
+    <updated>2014-03-27T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/27/the-speakers</id>
+    <content type="html"><![CDATA[<p>We&#8217;ve posted a sample of the great talks you&#8217;ll be enjoying this years at the <a href="http://redsnakephilly.org/event_details/">Speakers</a> page. Stay tuned for more speakers and their talks over the next week!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The schedule]]></title>
