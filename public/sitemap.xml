@@ -1,135 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://redsnakephilly.org/blog/2013/01/03/welcome-back-nerds/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://redsnakephilly.org/blog/2013/01/12/get-yer-tickets/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://redsnakephilly.org/blog/2013/01/12/role-call/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://redsnakephilly.org/blog/2013/01/20/the-agenda-has-been-posted/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <loc>http://redsnakephilly.org/blog/2014/03/27/the-schedule/</loc>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/about/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T20:41:13-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/archives/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/event_details/</loc>
-        <lastmod>2014-03-27T08:11:35-04:00</lastmod>
+        <lastmod>2014-03-27T20:46:31-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://redsnakephilly.org/organizers/</loc>
-        <lastmod>2014-03-27T08:09:05-04:00</lastmod>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2011-11-14-call-for-proposals-open.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-01-04-redsnake-tickets.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-01-call-for-volunteers.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-03-book-giveaways.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-14-redsnake-quiz.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-16-redsnake-quiz-q1.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-17-redsnake-quiz-q2.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-17-redsnake-quiz-q3.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-18-redsnake-quiz-q4.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-19-redsnake-quiz-q5.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-19-redsnake-quiz-q6.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://redsnakephilly.org/prev_events/2012/old_posts/2012-02-20-redsnake-quiz-q7.html
         </loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/schedule/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/speakers/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/sponsors/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T20:38:37-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://redsnakephilly.org/prev_events/2013/event_details/</loc>
+        <lastmod>2014-03-27T20:46:39-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://redsnakephilly.org/prev_events/2013/organizers/</loc>
+        <lastmod>2014-03-27T20:44:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/</loc>
-        <lastmod>2014-03-25T22:23:21-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/speakers/</loc>
-        <lastmod>2014-03-27T07:28:51-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/sponsors/</loc>
-        <lastmod>2014-03-27T07:38:43-04:00</lastmod>
+        <lastmod>2014-03-27T19:54:50-04:00</lastmod>
     </url>
 </urlset>

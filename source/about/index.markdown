@@ -26,7 +26,7 @@ The format is 2 hours of alternating 10 minute lightning talks. It's intense, te
   <div class='pic'>
     <img class="organizer" src="{{root_url}}/images/content/tom_300x300.jpg" />
   </div>
-  <div class="bio">Tom is Founder and Lead Engineer at <a href="http://loveparkrobotics.com/" target="blank" alt="loveparkrobotics.com">Love Park Robotics</a>, a cyber-physical systems software company in Philadelphia.  He has been programming in Python since last century. Most recently, he has been using Python to enable computers to see and robots to act intelligently. Tom organizes the <a href="http://phillypug.org" alt="Philadelphia Python User's Group">Philadelphia Python User's Group (PhillyPUG)</a>. 
+  <div class="bio">Tom is Founder and Lead Engineer at <a href="http://loveparkrobotics.com/" target="blank" alt="loveparkrobotics.com">Love Park Robotics</a>, a cyber-physical systems software company in Philadelphia.  He has been programming in Python since last century. Most recently, he has been using Python to enable computers to see and robots to act intelligently. Tom organizes the <a href="http://phillypug.org" alt="Philadelphia Python User's Group">Philadelphia Python User's Group (PhillyPUG)</a>.
   </div>
 </div>
 <br class="spacer clear" />
@@ -50,19 +50,4 @@ The format is 2 hours of alternating 10 minute lightning talks. It's intense, te
 <br class="spacer clear" />
 
 
-<div class="person">
-  <div class="name">
-    Mat Schaffer
-  </div>
-  <div class='links'>
-    <a href="https://github.com/matschaffer" target="blank">github.com/matschaffer</a>
-    <a href="http://twitter.com/matschaffer" target="blank">@matschaffer</a>
-  </div>
-  <div class='pic'>
-    <img class="organizer" src="{{root_url}}/images/content/mat_300x300.jpg" />
-  </div>
-  <div class="bio">
-    Mat Schaffer is a DevOps, Rails and JS developer for hire as part of <a href="http://mashion.net">Mashion</a>. He also organizes <a href="http://phillyrb.org">Philly.rb</a>, the downtown Philadelphia Ruby User group.
-  </div>
 </div>
-
