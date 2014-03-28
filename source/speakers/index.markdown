@@ -6,6 +6,19 @@ title: "speakers"
 We'll be adding new speakers to the list below daily.
 
 <div class='speaker'>
+  <div class='title'>Brain-Controlled Robots with Python</div>
+    <div class='pic' ><img alt="alyssa" src="{{root_url}}/images/speakers/alyssa_300x300.jpeg"/></div>
+    <div class='author'>Alyssa Batula</div>
+  <div class='abstract'>
+How is Python (particularly Python 3) used to control the DARwIn-OP robot using brain signals? This talk will focus on two main features that allow this project to work. Multiprocessing keeps the four components of the program running in real time without worrying about the GIL, and Cython wraps the robot's C++ code in a convenient Python package.
+  </div>
+  <div class='bio'>
+  Alyssa Batula is an electrical engineering Ph.D. candidate at Drexel University, working on a project to control a robot using recorded brain signals. She has taught Python through PhillyPUG and <a href="http://www.girldevelopit.com/chapters/philadelphia">Girl Develop It Philadelphia</a>.
+  </div>
+</div>
+<br class="spacer clear" />
+
+<div class='speaker'>
   <div class='title'>The Game of Hangman, Decision Theory and Delivering Software</div>
     <div class='author'>Chris Conley</div>
   <div class='abstract'>
