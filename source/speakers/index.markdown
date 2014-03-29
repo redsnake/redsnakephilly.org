@@ -32,6 +32,18 @@ Chris Conley is a software engineer lead at Monetate. Prior to Monetate he co-fo
 <br class="spacer clear" />
 
 <div class='speaker'>
+  <div class='title'>GPU Programming</div>
+    <div class='pic' ><img alt="ryan_deering" src="{{root_url}}/images/speakers/ryan_deering.jpg"/></div>
+    <div class='author'>Ryan Deering</div>
+  <div class='abstract'>
+  This talk will focus on how to use NVidia's cuRAND and cuBLAS to accelerate Monte Carlo simulations with a GPU in C#. </div>
+  <div class='bio'>
+  Ryan Deering is head of Quantitative Development at Chatham Financial in Kennett Square, PA.  He focuses on building interest rate and foreign exchange models for risk analytics and derivatives pricing.  Before joining Chatham in 2006, Ryan received a PhD in Mathematics from Duke University where he studied signal processing and speech recognition.
+  </div>
+</div>
+<br class="spacer clear" />
+
+<div class='speaker'>
   <div class='title'>Lapis - the Web Framework that Runs Inside Nginx</div>
     <div class='author'>Stefan Natchev</div>
   <div class='abstract'>
