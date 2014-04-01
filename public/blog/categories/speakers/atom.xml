@@ -4,7 +4,7 @@
   <title><![CDATA[Category: speakers | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/speakers/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-03-31T21:24:58-04:00</updated>
+  <updated>2014-03-31T22:04:55-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -50,10 +50,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Docker for Testing, Shipping, and Deploying]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/21/eric-windisch/"/>
-    <updated>2014-03-21T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/21/eric-windisch</id>
+    <title type="html"><![CDATA[Put a REPL on it!]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/22/dan-mcclory/"/>
+    <updated>2014-03-22T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/22/dan-mcclory</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

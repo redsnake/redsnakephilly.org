@@ -3,7 +3,7 @@ layout: page
 title: "speakers"
 ---
 
-Our speaker list is almost complete! In addition to all these below, we've got talks about Salt Stack, what's new in Python and Ruby, Blinker, and "putting a REPL on it."
+Our speaker list is almost complete! In addition to all these below, we've got talks about Salt Stack, what's new in Python and Ruby, and Blinker.
 
 {% assign index = true %}
 
