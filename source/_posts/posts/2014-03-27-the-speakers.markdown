@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The speakers"
+categories: posts
 date: 2014-03-27
 ---
 

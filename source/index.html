@@ -3,7 +3,7 @@ layout: default
 ---
 
   {% assign index = true %}
-  {% for post in paginator.posts %}
+  {% for post in site.categories.posts %}
   {% assign content = post.content %}
     <article class="post">
       {% include post/sharing.html %}
