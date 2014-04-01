@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-03-31T20:49:31-04:00</updated>
+  <updated>2014-03-31T21:24:58-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Alysssa Batula Org]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org/"/>
+    <updated>2014-03-31T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Brain-Controlled Robots with Python]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula/"/>
     <updated>2014-03-31T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sarah Gray]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/30/sarah-gray/"/>
+    <updated>2014-03-30T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/30/sarah-gray</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -32,10 +50,28 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Tim Gross]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/29/tim-gross/"/>
+    <updated>2014-03-29T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/29/tim-gross</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[GPU Programming]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/29/ryan-deering/"/>
     <updated>2014-03-29T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/29/ryan-deering</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tom Panzarella]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/28/tom-panzarella/"/>
+    <updated>2014-03-28T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/28/tom-panzarella</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -58,6 +94,15 @@
 to the <a href="http://redsnakephilly.org/event_details/">Event Details</a> page.</p>
 
 <p>Tickets went on sale this morning, and over half have been claimed already. So get your tickets soon, they&#8217;re going fast!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Angel.pizarro]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/27/angel.pizarro/"/>
+    <updated>2014-03-27T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/27/angel.pizarro</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

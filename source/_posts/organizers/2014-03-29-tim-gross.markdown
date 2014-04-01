@@ -1,0 +1,11 @@
+---
+categories: organizers
+name: Tim Gross
+pic: "tim_300x300.png"
+link_1: "http://0x74696d.com"
+link_1_text: "0x74696d.com"
+link_2: "http://twitter.com/0x74696d"
+link_2_text: "@0x74696d"
+bio: Tim Gross is the DevOps lead for DramaFever, where he works on deployment, AWS operations, and backend software engineering. When he's not cutting code or scratching his head at Cloudwatch, he might be found helping out at PhillyPUG. His secret hobby is trolling the Go programmers at DramaFever about how awesome Erlang is.
+
+---
