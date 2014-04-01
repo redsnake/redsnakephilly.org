@@ -1,5 +1,5 @@
 ---
-categories: organizers
+categories: founders
 name: Angel Pizarro
 pic: "angel_300x300.jpg"
 link_1: "https://github.com/delagoya"

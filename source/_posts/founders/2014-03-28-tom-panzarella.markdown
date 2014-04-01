@@ -1,5 +1,5 @@
 ---
-categories: organizers
+categories: founders
 name: Tom Panzarella
 pic: tom_300x300.jpg
 link_1: "https://github.com/tpanzarella"

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: speakers | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/speakers/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-03-31T22:04:55-04:00</updated>
+  <updated>2014-04-01T19:48:55-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -41,19 +41,19 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Lapis - the Web Framework that Runs Inside Nginx]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/"/>
-    <updated>2014-03-23T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev</id>
+    <title type="html"><![CDATA[Blinker]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/28/steve-dorazio/"/>
+    <updated>2014-03-28T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/28/steve-dorazio</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Put a REPL on it!]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/22/dan-mcclory/"/>
-    <updated>2014-03-22T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/22/dan-mcclory</id>
+    <title type="html"><![CDATA[Lapis - the Web Framework that Runs Inside Nginx]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/"/>
+    <updated>2014-03-23T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
