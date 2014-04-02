@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-01T19:48:55-04:00</updated>
+  <updated>2014-04-02T19:13:13-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alysssa Batula Org]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org/"/>
+    <updated>2014-04-01T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sungard]]></title>
@@ -32,10 +41,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Alysssa Batula Org]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org/"/>
+    <title type="html"><![CDATA[Jearvon Dharrie]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie/"/>
     <updated>2014-03-31T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org</id>
+    <id>http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -50,7 +59,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Peter Gebhard]]></title>
+    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
     <updated>2014-03-30T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
@@ -59,7 +68,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
+    <title type="html"><![CDATA[Peter Gebhard]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
     <updated>2014-03-30T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
@@ -183,15 +192,6 @@ to the <a href="http://redsnakephilly.org/event_details/">Event Details</a> page
     <link href="http://redsnakephilly.org/blog/2014/03/22/dan-mcclory/"/>
     <updated>2014-03-22T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/22/dan-mcclory</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Docker for Testing, Shipping, and Deploying]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/21/eric-windisch/"/>
-    <updated>2014-03-21T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/21/eric-windisch</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

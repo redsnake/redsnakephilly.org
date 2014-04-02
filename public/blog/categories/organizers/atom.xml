@@ -4,7 +4,7 @@
   <title><![CDATA[Category: organizers | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/organizers/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-01T19:48:55-04:00</updated>
+  <updated>2014-04-02T19:13:13-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,9 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Alysssa Batula Org]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org/"/>
+    <link href="http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org/"/>
+    <updated>2014-04-01T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jearvon Dharrie]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie/"/>
     <updated>2014-03-31T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula-org</id>
+    <id>http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
