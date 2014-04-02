@@ -4,7 +4,7 @@
   <title><![CDATA[Category: speakers | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/speakers/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-02T19:13:13-04:00</updated>
+  <updated>2014-04-02T19:20:17-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,6 +18,15 @@
     <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula/"/>
     <updated>2014-03-31T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
+    <updated>2014-03-30T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -45,15 +54,6 @@
     <link href="http://redsnakephilly.org/blog/2014/03/28/steve-dorazio/"/>
     <updated>2014-03-28T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/28/steve-dorazio</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lapis - the Web Framework that Runs Inside Nginx]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/"/>
-    <updated>2014-03-23T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
