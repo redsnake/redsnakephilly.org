@@ -1,16 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://redsnakephilly.org/blog/2014/03/20/joe-winter/</loc>
+        <loc>http://redsnakephilly.org/blog/2014/03/19/joe-winter/</loc>
         <lastmod>2014-03-31T20:33:41-04:00</lastmod>
     </url>
     <url>
-        <loc>http://redsnakephilly.org/blog/2014/03/21/eric-windisch/</loc>
-        <lastmod>2014-03-31T20:24:34-04:00</lastmod>
+        <loc>http://redsnakephilly.org/blog/2014/03/21/ben-plotnick/</loc>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/2014/03/22/dan-mcclory/</loc>
         <lastmod>2014-03-31T21:48:48-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://redsnakephilly.org/blog/2014/03/22/eric-windisch/</loc>
+        <lastmod>2014-03-31T20:24:34-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/</loc>
@@ -70,11 +74,11 @@
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/</loc>
-        <lastmod>2014-04-01T19:37:26-04:00</lastmod>
+        <lastmod>2014-04-02T19:20:16-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/</loc>
-        <lastmod>2014-04-02T19:20:16-04:00</lastmod>
+        <lastmod>2014-04-01T19:37:26-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula/</loc>
@@ -106,7 +110,7 @@
     </url>
     <url>
         <loc>http://redsnakephilly.org/blog/archives/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/event_details/</loc>
@@ -114,7 +118,7 @@
     </url>
     <url>
         <loc>http://redsnakephilly.org/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>
@@ -190,15 +194,15 @@
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/schedule/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/speakers/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2012/sponsors/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2013/event_details/</loc>
@@ -206,7 +210,7 @@
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/2013/organizers/</loc>
-        <lastmod>2014-04-04T13:31:08-04:00</lastmod>
+        <lastmod>2014-04-04T15:57:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://redsnakephilly.org/prev_events/</loc>
