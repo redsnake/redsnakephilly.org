@@ -4,7 +4,7 @@
   <title><![CDATA[Category: organizers | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/organizers/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-03T20:32:22-04:00</updated>
+  <updated>2014-04-03T21:04:16-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,19 +14,28 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Alysssa Batula Org]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org/"/>
-    <updated>2014-04-01T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/04/01/alysssa-batula-org</id>
+    <title type="html"><![CDATA[Alyssa Batula Org]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/04/02/alyssa-batula-org/"/>
+    <updated>2014-04-02T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/04/02/alyssa-batula-org</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Jearvon Dharrie]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie/"/>
+    <link href="http://redsnakephilly.org/blog/2014/04/01/jearvon-dharrie/"/>
+    <updated>2014-04-01T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/04/01/jearvon-dharrie</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ryan Findley]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/31/ryan-findley/"/>
     <updated>2014-03-31T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/31/jearvon-dharrie</id>
+    <id>http://redsnakephilly.org/blog/2014/03/31/ryan-findley</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -45,15 +54,6 @@
     <link href="http://redsnakephilly.org/blog/2014/03/29/sarah-gray/"/>
     <updated>2014-03-29T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/29/sarah-gray</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tim Gross]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/28/tim-gross/"/>
-    <updated>2014-03-28T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/28/tim-gross</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
