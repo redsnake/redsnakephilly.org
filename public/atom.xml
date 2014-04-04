@@ -4,7 +4,7 @@
   <title><![CDATA[RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-03T19:36:12-04:00</updated>
+  <updated>2014-04-03T20:28:12-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -59,7 +59,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
+    <title type="html"><![CDATA[Peter Gebhard]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
     <updated>2014-03-30T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
@@ -68,7 +68,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Peter Gebhard]]></title>
+    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
     <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
     <updated>2014-03-30T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
@@ -179,19 +179,19 @@ to the <a href="http://redsnakephilly.org/event_details/">Event Details</a> page
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Lapis - the Web Framework that Runs Inside Nginx]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/"/>
-    <updated>2014-03-23T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev</id>
+    <title type="html"><![CDATA[Mat Shaffer]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/26/mat-shaffer/"/>
+    <updated>2014-03-26T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/26/mat-shaffer</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Put a REPL on it!]]></title>
-    <link href="http://redsnakephilly.org/blog/2014/03/22/dan-mcclory/"/>
-    <updated>2014-03-22T00:00:00-04:00</updated>
-    <id>http://redsnakephilly.org/blog/2014/03/22/dan-mcclory</id>
+    <title type="html"><![CDATA[Lapis - the Web Framework that Runs Inside Nginx]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/23/stefan-natchev/"/>
+    <updated>2014-03-23T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/23/stefan-natchev</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: founders | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/founders/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-03T19:36:12-04:00</updated>
+  <updated>2014-04-03T20:28:12-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -27,6 +27,15 @@
     <link href="http://redsnakephilly.org/blog/2014/03/27/angel.pizarro/"/>
     <updated>2014-03-27T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/27/angel.pizarro</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mat Shaffer]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/26/mat-shaffer/"/>
+    <updated>2014-03-26T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/26/mat-shaffer</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
