@@ -6,6 +6,6 @@ link_1: "https://github.com/delagoya"
 link_1_text: "github.com/delagoya"
 link_2: "http://twitter.com/delagoya"
 link_2_text: "@delagoya"
-bio: Angel Pizarro leads a <a href="http://bioinf.itmat.upenn.edu/home.html" alt="ITMAT Bioinformatics Facility">bioinformatics group at UPENN</a> designing and developing systems and applications to solve large-scale problems in genomics. In his spare time, he <a href="http://critterkins.com" target="blank">likes to make silly things</a>.
+bio: Angel Pizarro is a <a href="http://aws-sled-sa-jobs.com/">Solutions Architect</a> for <a href="http://aws.amazon.com/">Amazon Web Services</a> focusing on scientific computing problems at scale.
 
 ---
