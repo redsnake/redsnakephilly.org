@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sponsors | RedSnake Philly]]></title>
   <link href="http://redsnakephilly.org/blog/categories/sponsors/atom.xml" rel="self"/>
   <link href="http://redsnakephilly.org/"/>
-  <updated>2014-04-03T20:28:12-04:00</updated>
+  <updated>2014-04-03T20:32:22-04:00</updated>
   <id>http://redsnakephilly.org/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -45,6 +45,15 @@
     <link href="http://redsnakephilly.org/blog/2014/03/29/prompt-works/"/>
     <updated>2014-03-29T00:00:00-04:00</updated>
     <id>http://redsnakephilly.org/blog/2014/03/29/prompt-works</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Oreilly]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/28/oreilly/"/>
+    <updated>2014-03-28T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/28/oreilly</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
