@@ -1,0 +1,11 @@
+---
+categories: founders
+name: Angel Pizarro
+pic: "angel_300x300.jpg"
+link_1: "https://github.com/delagoya"
+link_1_text: "github.com/delagoya"
+link_2: "http://twitter.com/delagoya"
+link_2_text: "@delagoya"
+bio: Angel Pizarro is a <a href="http://aws-sled-sa-jobs.com/">Solutions Architect</a> for <a href="http://aws.amazon.com/">Amazon Web Services</a> focusing on scientific computing problems at scale.
+
+---

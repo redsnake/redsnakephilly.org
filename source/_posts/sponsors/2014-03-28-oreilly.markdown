@@ -1,0 +1,8 @@
+---
+categories: sponsors
+name: O'Reilly
+sponsored: Give-Aways Sponsor
+sponsor_url: "http://.oreilly.com"
+logo: "oreilly.png"
+
+---
