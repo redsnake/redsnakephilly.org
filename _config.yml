@@ -4,8 +4,8 @@
 
 url: http://redsnakephilly.org
 title: RedSnake Philly
-subtitle: 
-author: 
+subtitle:
+author:
 # simple_search: http://google.com/search
 description:
 
@@ -29,7 +29,7 @@ date_format: "ordinal"
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/redsnakephilly
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -68,4 +68,3 @@ twitter_tweet_button: false
 
 # Google Analytics
 google_analytics_tracking_id:
-
