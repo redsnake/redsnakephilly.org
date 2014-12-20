@@ -1,9 +1,0 @@
----
-categories: sponsors
-name: 50 on Red
-sponsored: Swag Sponsor
-sponsor_url: "http://50onred.com"
-logo: "50onred-logo.jpg"
-blurb:
-
----

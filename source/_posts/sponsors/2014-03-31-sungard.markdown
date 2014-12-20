@@ -1,9 +1,0 @@
----
-categories: sponsors
-name: SunGard Consulting Services
-sponsored: Food Sponsor
-sponsor_url: "http://www.sungard.com/consulting"
-logo: "sungard_resized.jpeg"
-blurb: SunGard Consulting Services helps financial services and energy companies solve business problems by managing their complex technology and operational needs. Focused on large scale data and process management, custom application development and systems integration; we combine business and technology consulting and managed services to deliver innovative custom solutions. We help our customers capitalize on and manage the consequences of business, technology and regulatory change. For more information, visit us at <a href="http://www.sungard.com/consulting">www.sungard.com/consulting</a>.
-
----

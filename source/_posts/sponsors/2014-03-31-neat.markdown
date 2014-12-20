@@ -1,9 +1,0 @@
----
-categories: sponsors
-name: Neat
-sponsored: Beer Sponsor
-sponsor_url: "http://www.neat.com/"
-logo: "neat_logo.jpeg"
-blurb:
-
----
