@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: speakers | RedSnake Philly]]></title>
+  <link href="http://redsnakephilly.org/blog/categories/speakers/atom.xml" rel="self"/>
+  <link href="http://redsnakephilly.org/"/>
+  <updated>2014-12-20T15:49:58-05:00</updated>
+  <id>http://redsnakephilly.org/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Brain-Controlled Robots with Python]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/31/alysssa-batula/"/>
+    <updated>2014-03-31T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/31/alysssa-batula</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What's New In Python and Ruby]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/30/peter-gebhard/"/>
+    <updated>2014-03-30T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/30/peter-gebhard</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Game of Hangman, Decision Theory and Delivering Software]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/30/chris-conley/"/>
+    <updated>2014-03-30T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/30/chris-conley</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GPU Programming]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/29/ryan-deering/"/>
+    <updated>2014-03-29T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/29/ryan-deering</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blinker]]></title>
+    <link href="http://redsnakephilly.org/blog/2014/03/28/steve-dorazio/"/>
+    <updated>2014-03-28T00:00:00-04:00</updated>
+    <id>http://redsnakephilly.org/blog/2014/03/28/steve-dorazio</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
