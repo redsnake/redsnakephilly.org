@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 title: The Game of Hangman, Decision Theory and Delivering Software
 author: Chris Conley

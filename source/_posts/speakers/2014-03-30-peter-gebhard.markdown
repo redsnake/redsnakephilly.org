@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 author: "Peter Gebhard"
 title: "What's New In Python and Ruby"

@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 title: Lapis - the Web Framework that Runs Inside Nginx
 author: Stefan Natchev

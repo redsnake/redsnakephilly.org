@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 title: GPU Programming
 author: Ryan Deering

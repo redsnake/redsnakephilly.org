@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 title: Docker for Testing, Shipping, and Deploying
 author: Eric Windisch

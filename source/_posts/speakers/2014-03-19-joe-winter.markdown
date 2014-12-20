@@ -1,5 +1,4 @@
 ---
-layout: speaker
 categories: speakers
 title: Torquebox - Like a JBoss
 author: Joe Winter
